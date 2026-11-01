@@ -153,13 +153,7 @@ Library Alhazen welcomes the identification of material that may pose a risk to 
   
 ---  
 <div align="center">  
-  <h2 dir="rtl">  
-    طَلَبُ الْعِلْمِ لَا يَنْتَهِي  
-  </h2>  
-  <p>  
-    Ṭalab al-ʿilmi lā yantahī  
-  </p>  
-  <p>  
-    "The pursuit of knowledge never ends."  
-  </p>  
+  <h3 dir="rtl">طَلَبُ الْعِلْمِ لَا يَنْتَهِي</h3>  
+  <p>Ṭalab al-ʿilmi lā yantahī</p>  
+  <p>"The pursuit of knowledge never ends."</p>  
 </div>
