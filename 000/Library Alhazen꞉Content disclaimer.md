@@ -1,7 +1,8 @@
 ---
 share: true
 ---
-<h1>LIBRARY ALHAZEN PRIORITIZES THE SAFETY OF ITS READERS</h1>
+<h1>LIBRARY ALHAZEN PRIORITIZES THE SAFETY OF ITS READERS</h1>  
+  
 Library Alhazen is an extensive collection of articles, documents, records, observations, and other written materials covering a wide variety of subjects. Its collection may include information that some readers find disturbing, offensive, distressing, inappropriate, or otherwise objectionable.  
   
 Library Alhazen does not guarantee that all of its content will be suitable for every reader. Its materials are made available for informational, educational, historical, observational, and other purposes, and readers are encouraged to exercise their own discretion when accessing them.  
@@ -151,12 +152,14 @@ Readers should remain mindful of their own well-being when accessing the Library
 Library Alhazen welcomes the identification of material that may pose a risk to its readers or documented individuals and encourages readers to bring such concerns to its attention.  
   
 ---  
-<h2 align="center" dir="rtl">  
-  طَلَبُ الْعِلْمِ لَا يَنْتَهِي  
-</h2>  
-<p align="center">  
-  Ṭalab al-ʿilmi lā yantahī  
-</p>  
-<p align="center">  
-  "The pursuit of knowledge never ends."  
-</p>
+<div align="center">  
+  <h2 dir="rtl">  
+    طَلَبُ الْعِلْمِ لَا يَنْتَهِي  
+  </h2>  
+  <p>  
+    Ṭalab al-ʿilmi lā yantahī  
+  </p>  
+  <p>  
+    "The pursuit of knowledge never ends."  
+  </p>  
+</div>
