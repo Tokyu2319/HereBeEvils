@@ -153,9 +153,9 @@ Library Alhazen welcomes the identification of material that may pose a risk to 
   
 ---  
 <div align="center">  
-  <p dir="rtl" style="font-size: 32px; font-weight: bold;">  
+  <h2 dir="rtl">  
     طَلَبُ الْعِلْمِ لَا يَنْتَهِي  
-  </p>  
+  </h2>  
   <p>  
     Ṭalab al-ʿilmi lā yantahī  
   </p>  
