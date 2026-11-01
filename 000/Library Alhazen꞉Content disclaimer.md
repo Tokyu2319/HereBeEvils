@@ -151,7 +151,6 @@ Readers should remain mindful of their own well-being when accessing the Library
   
 Library Alhazen welcomes the identification of material that may pose a risk to its readers or documented individuals and encourages readers to bring such concerns to its attention.  
   
----  
 <div align="center">  
   <h2 dir="rtl">  
     طَلَبُ الْعِلْمِ لَا يَنْتَهِي  
