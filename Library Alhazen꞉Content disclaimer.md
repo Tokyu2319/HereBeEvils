@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+<!-- Percentage scaling -->
 <span style="font-size: 32px;">LIBRARY ALHAZEN PRIORITIZES THE SAFETY OF ITS READERS</span>  
   
 Library Alhazen is an extensive collection of articles, documents, records, and other written materials covering a wide variety of subjects. Its collection may include information that some readers find disturbing, offensive, distressing, inappropriate, or otherwise objectionable.  
