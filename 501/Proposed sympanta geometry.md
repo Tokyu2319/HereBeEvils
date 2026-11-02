@@ -17,7 +17,7 @@ The hexagonal neighbors lie closer to the central cell than the square neighbors
   
 ## Illustration  
 
-<img src="./Library%20assets/15-cell%20bitruncated%20cubic%20honeycomb.jpg" width="400" style="height: auto;"> 
+![Honeycomb](<Library assets/15-cell bitruncated cubic honeycomb.jpg>)
   
 *Figure: Fifteen truncated octahedra, with one cell at the center enclosed by the other fourteen.*  
   
