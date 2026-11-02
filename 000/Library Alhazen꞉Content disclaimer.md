@@ -67,7 +67,6 @@ Library Alhazen recognizes that documentation concerning individuals may be sens
 Accordingly, the Library considers the safety and well-being of documented individuals when determining how such information should be recorded, preserved, and presented.  
   
 ## Non-consensual observation and documentation  
-  
 Library Alhazen observes and documents individuals without necessarily obtaining their knowledge, awareness, or consent.  
   
 The individuals documented by the Library may have no knowledge of the existence of their records, the circumstances under which observations were made, or the extent to which information concerning them has been preserved.  
