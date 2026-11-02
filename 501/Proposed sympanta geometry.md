@@ -16,6 +16,7 @@ The 14 neighbors fall into two groups:
 The hexagonal neighbors lie closer to the central cell than the square neighbors. Their centers are separated by approximately 2.45 edge lengths, compared with approximately 2.83 for the square neighbors, a difference of about 15 percent. Cells not sharing a face with the central cell, beginning with a group of twelve, do not touch it and lie farther away than any of the 14.  
   
 ## Illustration  
+
 <img src=“Library assets/15-cell bitruncated cubic honeycomb.jpg” width=“50%”>  
   
 *Figure: Fifteen truncated octahedra, with one cell at the center enclosed by the other fourteen.*  
