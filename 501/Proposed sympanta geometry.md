@@ -16,8 +16,8 @@ The 14 neighbors fall into two groups:
 The hexagonal neighbors lie closer to the central cell than the square neighbors. Their centers are separated by approximately 2.45 edge lengths, compared with approximately 2.83 for the square neighbors, a difference of about 15 percent. Cells not sharing a face with the central cell, beginning with a group of twelve, do not touch it and lie farther away than any of the 14.  
   
 ## Illustration  
-<img src="../Library%20assets/15-cell%20bitruncated%20cubic%20honeycomb.jpg" width="400"> 
-
+<img src="../Library%20assets/15-cell%20bitruncated%20cubic%20honeycomb.jpg" width="400">   
+  
 *Figure: Fifteen truncated octahedra, with one cell cyan in colour.*  
   
 In an arrangement of fifteen cells, the central cell is entirely surrounded and cannot be seen from outside the arrangement. The central cell corresponds to the sympan of origin, and the other cells correspond to the sympanta in which its counterparts are found.  
