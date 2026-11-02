@@ -18,6 +18,8 @@ The hexagonal neighbors lie closer to the central cell than the square neighbors
 ## Illustration  
 <img src=“Library_assets/15-cell_bitruncated_cubic_honeycomb.jpg” width=“100%”>  
   
+  
+[15-cell bitruncated cubic honeycomb.jpg](../Library%20assets/15-cell%20bitruncated%20cubic%20honeycomb.jpg)  
 *Figure: Fifteen truncated octahedra, with one cell at the center enclosed by the other fourteen.*  
   
 In an arrangement of fifteen cells, the central cell is entirely surrounded and cannot be seen from outside the arrangement. Only the 14 surrounding cells are visible. The central cell corresponds to the sympan of origin, and the visible cells correspond to the sympanta in which its counterparts are found.  
