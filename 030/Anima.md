@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-> [!note] *Values presented in this article are theoretical approximations and serve to express the relationship between anima development and thaumic output.*  
+[!note] *Values presented in this article are theoretical approximations and serve to express the relationship between anima development and thaumic output.*  
   
 **Anima** is understood to be the result of [enrichment](./Experience.md) and the source of [mana](./Mana.md). It is the last constituent to emerge, forming once the [cogito](./Cogito.md) is able to interpret experiences. Animae do not obey the laws governing matter and energy, only interacting with the universe through thaumaturgy.  
   
