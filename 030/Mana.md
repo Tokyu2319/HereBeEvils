@@ -35,7 +35,7 @@ Mana is released through the corpus and may be converted into specialized states
 ### Mana capacity and generation  
 The amount of mana a being may contain and generate is determined primarily by [the value of their anima](./Experience.md#Comparative%20values).  
   
-- Mana capacity ($MC$) = 10 × AV  
+- Mana capacity ($MC$) = 10 × $AV$  
 - Mana generation ($MG$) = √AV × $S$ per cycle  
   
 Where:  
