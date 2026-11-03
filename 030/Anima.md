@@ -26,7 +26,7 @@ The amount of mana a being may contain and generate is determined primarily by [
   
 Where:  
 - MC = mana capacity  
-- MG = mana generation  
+- $MG$ = mana generation  
 - AV = anima value  
 - S = sanity, a coefficient representing the current psychological, emotional, and cognitive condition of a being, with a baseline value of 1 and a practical range of 1 to 45.  
 - Cycle = a unit of regenerative time approximately comparable to one hour on Earth  
