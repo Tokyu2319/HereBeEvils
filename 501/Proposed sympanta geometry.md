@@ -20,7 +20,7 @@ The hexagonal neighbors lie closer to the central cell than the square neighbors
   
 *Figure: Fifteen truncated octahedra, with one cell cyan in colour.*  
   
-In an arrangement of fifteen cells, the central cell is entirely surrounded and cannot be seen from outside the arrangement. The central cell corresponds to the sympan of origin, and the other cells correspond to the sympanta in which its counterparts are found.  
+The central cell corresponds to the sympan of origin, and the other cells correspond to the sympanta in which its counterparts are found.  
   
 ## Relationship to recorded observations  
 Library Alhazen observers have recorded encounters with 14 counterparts, a number matching the neighbors of a single cell in the model. Counting the observer, the arrangement contains 15 individuals sharing a recognizable correspondence. The first individuals bearing no similarity sufficient for counterpart classification would lie in the cells beyond the 14.  
