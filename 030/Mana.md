@@ -17,4 +17,33 @@ Raw mana cannot return to the anima from which it was released and undergoes irr
   
 These manifestations correspond behaviorally to phana, manon, armana and matter respectively.  
   
-Additionally, armana may prolong the stability of mana and delay decay through armatures*.
+Additionally, armana may prolong the stability of mana and delay decay through armatures*.  
+  
+## Mana release  
+Mana Release is the process of releasing mana from the anima, through the corpus, and into the universe. Mana release is influenced by two primary factors:  
+- the mana capacity and the generative ability of the anima,  
+- and the agency of cogito that governs the precision of conversion.  
+  
+### Mana conversion costs  
+Mana is released through the corpus and may be converted into specialized states during externalization. The known base costs are as follows:  
+- Phana: base cost of 1 mana per ’unit’  
+- Manon: base cost of 5 mana per ’unit’  
+- Armana: base cost of 7 mana per ’unit’  
+- Matter: base cost of ~67 mana per ’unit of matter’  
+  
+### Mana capacity and generation  
+The amount of mana a being may contain and generate is determined primarily by [the value of their anima](./Experience.md#Comparative%20values).  
+  
+- Mana capacity ($MC$) = 10 × AV  
+- Mana generation ($MG$) = √AV × $S$ per cycle  
+  
+Where:  
+- $MC$ = mana capacity  
+- $MG$ = mana generation  
+- $AV$ = anima value  
+- $S$ = sanity, a coefficient representing the current psychological, emotional, and cognitive condition of a being, with a baseline value of 1 and a practical range of 1 to 45.  
+- Cycle = a unit of regenerative time approximately comparable to one hour on Earth  
+  
+For example, a being with 2,500 $AV$ would possess:  
+- a mana capacity of 25,000 mana  
+- a generation rate of 50 mana per cycle, assuming $S$ is equal to 1

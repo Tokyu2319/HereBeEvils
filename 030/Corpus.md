@@ -24,7 +24,8 @@ Without corpus extension, hylogenized matter often lacks sufficient structural c
   
 ## Pseudo-corpus  
 A pseudo-corpus may be assigned to an object that lacks sufficient complexity but is nevertheless forced to function as a being’s corpus, often through the use of armatures.  
-### Sabitha (11, 12, 9)  
+  
+### Sabitha (0, 0, -2)  
 At the time of writing, Sabitha has possessed a total of 181 pseudo-corpora while imprisoned by Olive, comprising 14 vehicles, 18 weapons, 68 pieces of industrial equipment, and 81 satellites. The following is a list of notable objects Sabitha was forced to possess:  
 - Aircraft carrier  
 - Fighter aircraft  

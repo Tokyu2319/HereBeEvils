@@ -10,7 +10,8 @@ share: true
 - [Stabilization](Manokinesis.md#Stabilization)  
 - [Force manipulation](Manokinesis.md#Force%20manipulation)  
 - [Field manipulation](Manokinesis.md#Field%20manipulation)  
-	- [Field interference](Manokinesis.md#Field%20manipulation)  
+- [Travel speed](Manokinesis.md#Travel%20speed)  
+- [Field interference](Manokinesis.md#Field%20interference)  
 - [Transfer of control](Manokinesis.md#Transfer%20of%20control)  
 - [Interaction with matter](Manokinesis.md#Interaction%20with%20matter)  
 - [Flight](Manokinesis.md#Flight)  
@@ -30,18 +31,19 @@ Newly generated manon can be stabilized while the practitioner maintains control
 ## Force manipulation  
 A practitioner can impose the ability to exert or cease exerting an attractive force upon stabilized manon. This property can be activated or deactivated without destabilizing the particles, allowing them to remain stable and available for subsequent use.  
   
-Unlike the natural force exerted upon destabilization, manokinetic force is actively controlled by the practitioner. A single stabilized manon particle under manokinetic control has an interaction radius of approximately 1.2 centimeters and exerts an attractive force of approximately 120 millinewtons on a 1 kg reference mass. The force remains constant throughout the particle’s interaction radius.  
+A single stabilized manon particle under manokinetic control exerts an attractive force of approximately 120 millinewtons on a 1 kg reference mass within an interaction radius of approximately 1.2 centimeters. The force remains constant throughout the particle’s interaction radius.  
   
 The force exerted by manon is exclusively attractive. Practitioners can control its direction, allowing objects to be pulled along different trajectories, translated, or rotated. Multiple forces can be applied simultaneously, including forces acting upon separate objects.  
   
-The magnitude of force exertion depends on the quantity of stable manon within the active interaction region. Forces exerted by multiple particles acting upon the same object add linearly when applied in the same direction. Concentrating particles into a smaller area increases the force that can be exerted.  
+The magnitude of force exertion depends on the quantity of stable manon within the active interaction region. Forces exerted by multiple particles acting upon the same object add linearly when applied in the same direction. The maximum force exerted by a given quantity of active particles is therefore proportional to their number.  
   
 Practitioners can alter the magnitude of an applied force by joining or separating particles while exertion is underway.  
   
 Manokinetic force can be applied to specific locations on an object without necessarily affecting the surrounding material. This allows for highly localized manipulation, although excessive concentration of force may produce substantial stress at the point of application.  
   
-## Field manipulation  
+The resulting acceleration of an affected object is determined by the net force acting upon it and its mass. Consequently, the same applied force produces greater acceleration in objects of lower mass.  
   
+## Field manipulation  
 Practitioners can manipulate individual manon particles or entire manon fields. Stable particles can be arranged into various configurations, including sheets, ropes, branches, loops, and intersections, provided that the field remains connected.  
   
 A connected field can extend beyond the immediate vicinity of its practitioner, allowing manon to be manipulated at a distance. This remote control requires a continuous connection between the practitioner and the field, analogous to a rope.  
@@ -50,9 +52,14 @@ Practitioners may also maintain multiple disconnected fields simultaneously. How
   
 Manon particles can pass through one another without interacting and can move through solid matter that does not obstruct them. Practitioners can also reshape a field while it is actively exerting force and can separate individual particles from an existing field without destabilizing the remaining particles. A separated particle can immediately be controlled independently.  
   
-The configuration of a field influences its vulnerability to interference. Manon maintained in a compact arrangement near the practitioner’s body is comparatively difficult to target. When extended into configurations such as sheets or ropes, the field becomes more exposed to interference from other practitioners.  
+## Travel speed  
+The maximum travel speed of a manon field is determined by the square root of twelve multiplied by its particle quantity, expressed in millimeters per second. This relationship applies independently to every field, regardless of its configuration.  
   
-### Field interference  
+Separating a connected field into multiple disconnected fields reduces the maximum travel speed of each resulting field according to its individual particle quantity. Conversely, reconnecting fields increases their maximum travel speed according to their combined particle quantity.  
+  
+Manon can attain its maximum travel speed instantaneously, without requiring a period of acceleration. However, the rapid displacement of a field may impose substantial mechanical stress upon the practitioner controlling it.  
+  
+## Field interference  
 Manon fields belonging to different practitioners can destabilize one another when their particles physically connect. Such interference requires particles from the respective fields to come within 12 centimeters of one another.  
   
 When an invading practitioner successfully destabilizes a defending practitioner’s field, the invading practitioner retains their own field. If the defending practitioner successfully prevents the interference, both fields destabilize.  
@@ -74,11 +81,23 @@ Manon particles and their manokinetic effects can be obstructed by sufficiently 
 ## Flight  
 Manokinesis can be used to achieve flight by exerting an attractive force upon the practitioner’s own body. The practitioner effectively draws themselves toward a chosen point through controlled attraction.  
   
-Hovering is achieved by adjusting the attractive force until it balances the gravitational pull acting upon the practitioner. Directional flight is accomplished by changing the direction and magnitude of the applied force.  
+The movement produced by manokinesis is governed by the net force acting upon the practitioner. The resulting acceleration is determined by the total attractive force and the practitioner’s mass, in accordance with Newton’s second law. When the attractive force exceeds the gravitational force acting upon the practitioner, they accelerate upward. When both forces are equal, vertical acceleration ceases, allowing the practitioner to maintain their existing vertical velocity. When the attractive force is insufficient to counter gravity, the practitioner accelerates downward.  
   
-Increasing the number of activated manon particles increases the available attractive force, allowing greater acceleration. The quantity of manon required for flight depends on the practitioner’s body weight. Carrying additional passengers or objects requires a corresponding increase in available manokinetic force.  
+Manokinetic flight is consequently governed by acceleration rather than velocity. Practitioners can increase their velocity by maintaining an unbalanced force, preserve their existing velocity by balancing the forces acting upon them, or reduce their velocity by applying an attractive force against their direction of travel.  
   
-Practitioners can hover and travel in any direction, including horizontally and upside down.  
+Directional flight is accomplished by controlling the direction and magnitude of the attractive force. By redirecting the applied force, practitioners can accelerate along different trajectories without necessarily altering their existing velocity in other directions. A practitioner travelling horizontally, for example, can begin accelerating vertically while retaining their horizontal velocity. Changes in trajectory are therefore accompanied by corresponding changes in acceleration rather than instantaneous changes in velocity.  
+  
+Deceleration is achieved by directing attraction against the practitioner’s existing direction of travel. This allows practitioners to reduce their velocity, arrest their movement, or execute changes in trajectory. The ability to produce substantial directional changes is nevertheless constrained by the mechanical stress imposed upon the practitioner’s body.  
+  
+Hovering requires the attractive force to balance the gravitational force acting upon the practitioner. Maintaining a stationary position therefore requires continuous adjustment of the applied force to compensate for gravity and other external influences, such as aerodynamic resistance.  
+  
+The quantity of manon required for flight depends on the practitioner’s mass and the gravitational force acting upon them. Each active particle contributes approximately 120 millinewtons of attractive force within its interaction radius. Carrying additional passengers or objects requires a corresponding increase in available manokinetic force.  
+  
+Manokinetic forces can be applied to specific locations on the practitioner’s body. When the resultant force acts through the body’s center of mass, it primarily produces translational acceleration. When applied away from the center of mass, it can additionally produce torque, causing the body to rotate. Practitioners can distribute forces across multiple locations to control their orientation and reduce excessive localized stress.  
+  
+Changes in velocity and direction can subject practitioners to substantial mechanical stress. Their ability to withstand such forces depends on their [corpus’](../030/Corpus.md) physical composition and structural properties. Consequently, the maximum practical acceleration and manoeuvrability attainable through manokinetic flight vary between practitioners.  
+  
+Practitioners can hover and travel in any direction, including horizontally and upside down, provided sufficient manokinetic force is available.  
   
 ## Limitations  
 Manokinesis is dependent on the practitioner’s concentration, experience, and understanding of the material being manipulated.  
@@ -89,6 +108,8 @@ The precision of manipulation improves with experience. Practitioners may manipu
   
 Improper manipulation can result in the destabilization of the practitioner’s own field. Maintaining larger or more complex field configurations generally requires greater concentration.  
   
+Rapid field displacement and the application of substantial forces can impose mechanical stress upon the practitioner or affected objects. The consequences depend on the magnitude, distribution, and location of the applied forces, as well as the physical properties of the affected material.  
+  
 There is no established maximum quantity of manon a practitioner can maintain simultaneously.  
   
 ## Applications  
@@ -96,7 +117,7 @@ Manokinesis has applications in mechanical manipulation, manufacturing, precisio
   
 Its ability to exert localized force allows practitioners to manipulate small mechanical components, making it particularly useful in clockmaking. At larger scales, practitioners can move, lift, and throw objects by applying attractive force along a desired trajectory.  
   
-Practitioners can also hold objects under attractive force and subsequently release them, producing a slingshot-like effect that launches the object using accumulated potential energy.  
+Practitioners can also hold objects under attractive force and subsequently release them, producing a slingshot-like effect that launches the object using accumulated kinetic energy.  
   
 Manon can also be used to mechanically agitate matter. With sufficient understanding of molecular disciplines, this can be applied at microscopic scales, including the deliberate heating of materials through mechanical agitation.  
   

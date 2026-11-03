@@ -6,14 +6,6 @@ share: true
   
 **Anima** is understood to be the result of [enrichment](./Experience.md) and the source of [mana](./Mana.md). It is the last constituent to emerge, forming once the [cogito](./Cogito.md) is able to interpret experiences. Animae do not obey the laws governing matter and energy, only interacting with the universe through thaumaturgy.  
   
-# Contents  
-- [Mana release](Anima.md#Mana%20release)  
-	- [Mana conversion costs](Anima.md#Mana%20release)  
-	- [Mana capacity and generation](Anima.md#Mana%20release)  
-- [Mana exhaustion](Anima.md#Mana%20exhaustion)  
-	- [Mana exhaustion blindness](Anima.md#Mana%20exhaustion)  
-- [Transience](Anima.md#Transience)  
-  
 ## Mana release  
 Mana Release is the process of releasing mana from the anima, through the [corpus](./Corpus.md), and into the universe. Mana release is influenced by two primary factors:  
 - the mana capacity and the generative ability of the anima,  
@@ -22,9 +14,9 @@ Mana Release is the process of releasing mana from the anima, through the [corpu
 ### Mana conversion costs  
 Mana is released through the corpus and may be converted into specialized states during externalization. The known base costs are as follows:  
 - Phana: base cost of 1 mana per ’unit’  
-- Manon: base cost of 50 mana per ’unit’  
-- Armana: base cost of 5 mana per ’unit’  
-- Matter: base cost of ~1,000 mana per ’unit of matter’  
+- Manon: base cost of 5 mana per ’unit’  
+- Armana: base cost of 7 mana per ’unit’  
+- Matter: base cost of ~67 mana per ’unit of matter’  
   
 ### Mana capacity and generation  
 The amount of mana a being may contain and generate is determined primarily by [the value of their anima](./Experience.md#Comparative%20values).  
