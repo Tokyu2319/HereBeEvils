@@ -46,7 +46,7 @@ Al-Haytham c possesses a substantial atmosphere composed primarily of nitrogen, 
 Despite its stable climate, Al-Haytham c has no native biosphere. Its continents are barren, with no soils, and its oceans are biologically sterile. It is the principal habitable world of the system.  
   
 ### Al-Haytham d  
-Al-Haytham d is the outermost confirmed planet in the system. It is a gas giant with a mass of 0.71 Jupiter masses and a mean radius of 0.96 Jupiter radii. It orbits the host star at a semimajor axis of 2,84 AU, completing one revolution every 1,928 days.  
+Al-Haytham d is the outermost confirmed planet in the system. It is a gas giant with a mass of 0.71 Jupiter masses and a mean radius of 0.96 Jupiter radii. It orbits the host star at a semimajor axis of 2.84 AU, completing one revolution every 1,928 days.  
   
 The planet has an orbital eccentricity of 0.07 and an orbital inclination of 1.4°. Its atmosphere consists primarily of molecular hydrogen and helium, with methane, ammonia, and water vapor contributing to its atmospheric chemistry.  
   
