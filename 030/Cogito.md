@@ -34,6 +34,8 @@ Cogito is the primary instrument of thaumaturgy. It converts [mana](./Mana.md) a
 Cogito has been found to respond to manokinesis, and in this sense it can be acted on. Practitioners generally discourage the practice, since interference can cause temporary memory loss. The loss is temporary because alterations to a cogito’s memory are overwritten over time by the memories of its corpus. Trained practitioners make use of this property in the practice of hallucikinesis and cognitive assimilation.   
   
 ### Hallucikinesis  
+> Main article: [Hallucikinesis](../Hallucikinesis.md)  
+  
 A type of manokinesis used in order to alter how cogito receives, filters, or interprets input from its corpus. An incredible amount of control is needed to effectively use hallucikinesis. Three types of hallucikinesis can be found throughout the universe, they differ in sensory input and they can be used simultaneously.  
 - Somatic Hallucikinesis  
 Alters input from external bodily sensations, body orientation, movement, and internal bodily states.  

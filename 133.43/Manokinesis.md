@@ -10,10 +10,7 @@ share: true
 - [Stabilization](Manokinesis.md#Stabilization)  
 - [Force manipulation](Manokinesis.md#Force%20manipulation)  
 - [Field manipulation](Manokinesis.md#Field%20manipulation)  
-- [Travel speed](Manokinesis.md#Travel%20speed)  
-- [Field interference](Manokinesis.md#Field%20interference)  
 - [Transfer of control](Manokinesis.md#Transfer%20of%20control)  
-- [Interaction with matter](Manokinesis.md#Interaction%20with%20matter)  
 - [Flight](Manokinesis.md#Flight)  
 - [Limitations](Manokinesis.md#Limitations)  
 - [Applications](Manokinesis.md#Applications)  
@@ -52,31 +49,10 @@ Practitioners may also maintain multiple disconnected fields simultaneously. How
   
 Manon particles can pass through one another without interacting and can move through solid matter that does not obstruct them. Practitioners can also reshape a field while it is actively exerting force and can separate individual particles from an existing field without destabilizing the remaining particles. A separated particle can immediately be controlled independently.  
   
-## Travel speed  
-The maximum travel speed of a manon field is determined by the square root of twelve multiplied by its particle quantity, expressed in millimeters per second. This relationship applies independently to every field, regardless of its configuration.  
-  
-Separating a connected field into multiple disconnected fields reduces the maximum travel speed of each resulting field according to its individual particle quantity. Conversely, reconnecting fields increases their maximum travel speed according to their combined particle quantity.  
-  
-Manon can attain its maximum travel speed instantaneously, without requiring a period of acceleration. However, the rapid displacement of a field may impose substantial mechanical stress upon the practitioner controlling it.  
-  
-## Field interference  
-Manon fields belonging to different practitioners can destabilize one another when their particles physically connect. Such interference requires particles from the respective fields to come within 12 centimeters of one another.  
-  
-When an invading practitioner successfully destabilizes a defending practitioner’s field, the invading practitioner retains their own field. If the defending practitioner successfully prevents the interference, both fields destabilize.  
-  
-The quantity of manon does not independently determine the outcome of interference. The configuration and exposure of a field influence its vulnerability.  
-  
 ## Transfer of control  
 Practitioners can transfer control of stable manon particles to another practitioner. However, the transfer is not necessarily lossless. Because natural metastability resumes during the transfer, some particles may destabilize before control is successfully established by the receiving practitioner.  
   
 Simultaneous attempts by multiple practitioners to manipulate the same stable manon particles result in their destabilization.  
-  
-## Interaction with matter  
-Manokinesis can be applied to solids, liquids, and gases. Practitioners can manipulate individual components of an object, apply force to specific locations, and agitate matter at microscopic scales.  
-  
-Containing liquids in a particular formation, such as a bowl, requires a considerable quantity of stable manon.  
-  
-Manon particles and their manokinetic effects can be obstructed by sufficiently dense matter, depending on its composition. Lead is capable of obstructing manon, although the precise thickness required remains undetermined.  
   
 ## Flight  
 Manokinesis can be used to achieve flight by exerting an attractive force upon the practitioner’s own body. The practitioner effectively draws themselves toward a chosen point through controlled attraction.  

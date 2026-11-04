@@ -16,10 +16,10 @@ The following titles are currently recognized within Library Alhazen.
 - Ardour blossoming Sabitha  
   
 ### B  
--   
+- Big and quiet Sabitha  
   
 ### C  
--    
+-  Cocksure yet sagacious Sabitha  
   
 ### D  
 -   
@@ -28,6 +28,7 @@ The following titles are currently recognized within Library Alhazen.
 -   
   
 ### F  
+- Forward-thinking, overthinking, and perfective Sabitha  
 - Forward-thinking and inventive Sabitha  
   
 ### G  
@@ -49,10 +50,10 @@ The following titles are currently recognized within Library Alhazen.
 - Lazy but dependable Sabitha  
   
 ### M  
--   
+- Motherly yet malevolent Sabitha  
   
 ### N  
--   
+- Narcissistic and noble Sabitha  
   
 ### O  
 - Overzealous but comedic Sabitha  
@@ -69,7 +70,7 @@ The following titles are currently recognized within Library Alhazen.
   
 ### S  
 - Strict and mature Sabitha  
-- Sunny and straight Sabitha  
+- Sunny and straight man Sabitha  
 - Stupid yet smart Sabitha  
 - Submissive and proactive Sabitha  
   
@@ -78,7 +79,7 @@ The following titles are currently recognized within Library Alhazen.
 - Tasty and savoury Sabitha  
   
 ### U  
--   
+- Ubiquitous and sneaky Sabitha  
   
 ### V  
 - Very Fine Sabitha  

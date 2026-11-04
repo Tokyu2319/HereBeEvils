@@ -19,7 +19,7 @@ Paradoxically, beings whose anima are of higher value, are often more vulnerable
 This blindness cannot be felt by higher beings; it can only be known indirectly, by those who have studied how their own depletion behaves. Those who possess this understanding tend to release their mana deliberately, stopping short of the threshold they cannot sense. Those who do not remain wholly unaware of how close they stand to it—and may discover the limit only by crossing it, pouring their entire reserve into a single act and collapsing dead the instant it is spent, with no warning ever having reached them.  
   
 ## Transience  
-Transience is a state where an anima is without its cogito and corpus. Transience is a natural state associated with death, considered a form of afterlife. Animae that exist in this state are referred to as transient anima. In this state, transient animae are unable to gain experiences* and, because animae do not obey the laws governing matter and energy, their position will remain fixed in space until a thaumical disturbance alters it.  
+Transience is a state where an anima is without its cogito and corpus. Transience is a natural state associated with death, considered a form of afterlife. Animae that exist in this state are referred to as transient anima. In this state, transient animae are unable to gain experiences and, because animae do not obey the laws governing matter and energy, their position will remain fixed in space until a thaumical disturbance alters it.  
   
 ## Cogito resurrection  
   
