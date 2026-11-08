@@ -25,7 +25,7 @@ The following titles are currently recognized within Library Alhazen.
 -   
   
 ### E  
--   
+- Edible and credible Sabitha  
   
 ### F  
 - Forward-thinking, overthinking, and perfective Sabitha  
@@ -99,6 +99,9 @@ The following titles are currently recognized within Library Alhazen.
 ## Former and modified titles  
 This section contains titles that are no longer in current use or have been replaced through administrative decisions.  
   
+### F  
+- Fine Sabitha — Replaced by *Very fine Sabitha*.  
+  
 ### P  
 - Proactive Sabitha — Replaced by *Submissive and proactive Sabitha*.  
   
@@ -111,9 +114,6 @@ This section contains titles that are no longer in current use or have been repl
   
 ### T  
 - Tasty Sabitha — Replaced by *Tasty and savoury Sabitha* and *Tasty and sweet Sabitha*.  
-  
-### V  
-- Fine Sabitha — Replaced by *Very fine Sabitha*.  
   
 ## Unassigned titles  
 This section contains titles with no current holder.  
@@ -136,6 +136,9 @@ This section contains titles with no current holder.
   
 ### M  
 - Milk-drunk Sabitha  
+  
+### O  
+- One more Sabitha  
   
 ### P  
 - Pink-cheeked Sabitha  
