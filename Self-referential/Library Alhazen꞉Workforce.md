@@ -3,7 +3,7 @@ share: true
 ---
 **Library Alhazen’s workforce** is composed of partitions of its founder, Sabitha. These individuals constitute the institution’s personnel and participate in its various activities, including research, documentation, archival preservation, expeditions, security operations, defensive measures, agriculture, food production, preparation, preservation, and distribution.  
   
-Although staff members share a common biological origin and initial memories dating back to before Library Alhazen’s founding, they are not considered identical individuals in terms of personality, [experiences](../030/Experience.md), or identity.  
+Although staff members share a common biological origin and initial memories dating back to before Library Alhazen’s founding, they are not considered identical individuals in terms of personality, [experiences](../120/Experience.md), or identity.  
   
 Each staff member possesses an individual personality, behavioral characteristics, preferences, and capabilities. These differences influence their interactions, activities, and suitability for particular institutional responsibilities.  
   
