@@ -20,7 +20,7 @@ The thaumical process for converting [Mana](./Mana.md) into manon and releasing 
 ## Manokinesis  
 > Main article: [Manokinesis](./Manokinesis.md)  
   
-**Manokinesis** is the thaumical practice of stabilizing and manipulating manon under a [cogito](../030/Cogito.md) or an armature. It allows practitioners to suspend the natural metastability of manon and control its attractive force independently of the particle’s natural destabilization.  
+**Manokinesis** is the thaumical practice of stabilizing and manipulating manon under a [cogito](../120/Cogito.md) or an armature. It allows practitioners to suspend the natural metastability of manon and control its attractive force independently of the particle’s natural destabilization.  
   
 ## Manon fields  
 A **manon field** is formed when two or more stable manon particles exist within 12 centimeters of one another or satisfy the applicable interaction-region overlap condition. Particles separated by no more than 12 centimeters are considered directly connected, with indirectly connected particles constituting part of the same field.  

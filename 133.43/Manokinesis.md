@@ -4,7 +4,7 @@ share: true
 > [!note]  
 > *The information presented in this article is information provided from Someone.*  
   
-**Manokinesis** is the thaumical practice of stabilizing and manipulating [manon](./Manon.md) under a [cogito](../030/Cogito.md) or an armature. It allows practitioners to suspend the natural metastability of manon and impose controlled properties upon it, enabling the exertion of attractive forces independently of the particle’s natural destabilization.  
+**Manokinesis** is the thaumical practice of stabilizing and manipulating [manon](./Manon.md) under a [cogito](../120/Cogito.md) or an armature. It allows practitioners to suspend the natural metastability of manon and impose controlled properties upon it, enabling the exertion of attractive forces independently of the particle’s natural destabilization.  
   
 ## Contents  
 - [Stabilization](Manokinesis.md#Stabilization)  
@@ -71,7 +71,7 @@ The quantity of manon required for flight depends on the practitioner’s mass a
   
 Manokinetic forces can be applied to specific locations on the practitioner’s body. When the resultant force acts through the body’s center of mass, it primarily produces translational acceleration. When applied away from the center of mass, it can additionally produce torque, causing the body to rotate. Practitioners can distribute forces across multiple locations to control their orientation and reduce excessive localized stress.  
   
-Changes in velocity and direction can subject practitioners to substantial mechanical stress. Their ability to withstand such forces depends on their [corpus’](../030/Corpus.md) physical composition and structural properties. Consequently, the maximum practical acceleration and manoeuvrability attainable through manokinetic flight vary between practitioners.  
+Changes in velocity and direction can subject practitioners to substantial mechanical stress. Their ability to withstand such forces depends on their [corpus’](../120/Corpus.md) physical composition and structural properties. Consequently, the maximum practical acceleration and manoeuvrability attainable through manokinetic flight vary between practitioners.  
   
 Practitioners can hover and travel in any direction, including horizontally and upside down, provided sufficient manokinetic force is available.  
   
