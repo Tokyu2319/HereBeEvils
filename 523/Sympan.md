@@ -2,7 +2,7 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from █████-████.*  
+> *The information presented in this article is information provided from Someone.*  
   
 A **sympan** is a domain of reality distinguished from neighboring domains by differences in their histories and macroscopic states. The universe is understood to comprise an immense number of such sympanta, each encompassing a range of minor variations that collectively correspond to a dominant macroscopic state. Sympanta are not described as separate universes governed by different physical laws, but as distinct domains within a single universe. Observations made during intersympantic travel are consistent with this description.  
   
@@ -23,4 +23,4 @@ Counterpart relations are reciprocal but not transitive. If one individual is a 
 ## Proposed geometry  
 > Main article: [Proposed sympanta geometry](../501/Proposed%20sympanta%20geometry.md)  
   
-Library Alhazen has proposed a geometric model of sympantic adjacency that accounts for the number of recorded counterparts. The model is unconfirmed. It is a proposal of Library Alhazen and is not part of the information provided by █████-████.
+Library Alhazen has proposed a geometric model of sympantic adjacency that accounts for the number of recorded counterparts. The model is unconfirmed. It is a proposal of Library Alhazen and is not part of the information provided by Someone.
