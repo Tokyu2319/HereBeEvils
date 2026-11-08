@@ -13,12 +13,4 @@ Someone was diagnosed with depression, which affected their emotional well-being
   
 Further access is restricted.  
   
-<details>  
-  <summary onclick="this.innerHTML='ACCESS GRANTED'">  
-    <span style="color:#FF0000">Username: SabithaFlounder   Password: ••••••••••••••••••••••••••••••••</span>  
-  </summary>  
-  
-  **Ramanujan**, strictly known by the pseudonym **Someone**, is an [apoklyon](../133.43/Apoklyon.md) whose origin can be traced to the [sympan](../523/Sympan.md) located at coordinates (0, 0, 0), which is the home of Library Alhazen's founder.  
-  
-</details>  
-  
+<span style="color: red;">This is red text!</span>
