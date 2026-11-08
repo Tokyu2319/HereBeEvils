@@ -2,7 +2,7 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from █████-████.*  
+> *The information presented in this article is information provided from Someone.*  
   
 **Manon** is a subatomic particle capable of exerting an attractive force upon matter. Once generated, manon is metastable, with natural metastability durations ranging from approximately 0.8 to 5 seconds. Upon destabilization, a single manon particle generates a transient attractive force of approximately 12 millinewtons on a 1 kg reference mass, drawing matter within an approximate radius of 12 centimeters toward the particle’s point of origin. The attractive interaction persists for 122 milliseconds, after which the manon particle ceases to exist and the interaction terminates. The resulting acceleration is inversely proportional to the mass of the attracted object.  
   
