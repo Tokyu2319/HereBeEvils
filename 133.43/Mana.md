@@ -5,7 +5,7 @@ share: true
 > *The information presented in this article is information provided from Someone.*  
 > *Values presented in this article are theoretical approximations and serve to express the relationship between anima development and thaumic output.*  
   
- **Mana** is the required resource to maintain the coherence between [anima](../030/Anima.md), [cogito](../030/Cogito.md), and [corpus](../030/Corpus.md). Mana is a subatomic particle that is stable inside a [being’s](../030/Being.md) and metastable outside of it. Mana is inherently transformative and may convert into specialized states. The principal forms are [phana](./Phana.md), [manon](./Manon.md), [armana](./Armana.md), and [matter](../030/Matter.md). Each has its own article.  
+ **Mana** is the required resource to maintain the coherence between [anima](../120/Anima.md), [cogito](../120/Cogito.md), and [corpus](../120/Corpus.md). Mana is a subatomic particle that is stable inside a [being’s](../120/Being.md) and metastable outside of it. Mana is inherently transformative and may convert into specialized states. The principal forms are [phana](./Phana.md), [manon](./Manon.md), [armana](./Armana.md), and [matter](../120/Matter.md). Each has its own article.  
   
 ## Raw mana  
 Raw mana are mana particles existing independently from their anima and outside their specialized states. Raw mana will naturally convert itself into phana or manon when it enters their fields. Raw mana is inherently temporary and subject to mana decay.  
@@ -33,7 +33,7 @@ Mana is released through the corpus and may be converted into specialized states
 - Matter: base cost of ~67 mana per ’unit of matter’  
   
 ### Mana capacity and generation  
-The amount of mana a being may contain and generate is determined primarily by [the value of their anima](../030/Experience.md#Comparative%20values).  
+The amount of mana a being may contain and generate is determined primarily by [the value of their anima](../120/Experience.md#Comparative%20values).  
   
 - Mana capacity ($MC$) = 10 × $AV$  
 - Mana generation ($MG$) = √AV × $S$ per cycle  
