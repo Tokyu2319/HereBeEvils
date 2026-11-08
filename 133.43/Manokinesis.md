@@ -2,7 +2,7 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from █████-████.*  
+> *The information presented in this article is information provided from Someone.*  
   
 **Manokinesis** is the thaumical practice of stabilizing and manipulating [manon](./Manon.md) under a [cogito](../030/Cogito.md) or an armature. It allows practitioners to suspend the natural metastability of manon and impose controlled properties upon it, enabling the exertion of attractive forces independently of the particle’s natural destabilization.  
   
