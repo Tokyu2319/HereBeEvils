@@ -12,5 +12,3 @@ The effects of Someone extend to all forms of recorded information, including au
 Someone was diagnosed with depression, which affected their emotional well-being and moral judgement. They subsequently began professional treatment, including therapy and medication. Over time, their symptoms became more manageable, and they gradually developed healthier coping strategies. With continued support and treatment, they experienced improved emotional stability and developed a more positive outlook on life. They continue to prioritize their mental well-being while embracing personal growth and recovery.  
   
 Further access is restricted.  
-  
-<span style="color: red;">This is red text!</span>
