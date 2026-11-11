@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-**Proposed sympanta geometry** is a geometric model of sympantic adjacency in which each sympan is represented as a truncated octahedron within a space-filling arrangement of identical cells. The model was proposed to account for the number of counterparts recorded by Library Alhazen observers.  
+**Proposed sympanta geometry** is a geometric model of sympantic adjacency in which each sympan is represented as a truncated octahedron within a space-filling arrangement of identical cells. The model was proposed to account for the number of counterparts recorded by founder of Library Alhazen.  
   
 ## Model  
 In the proposed model, sympanta are represented by cells of a single shape, the truncated octahedron, packed so that no space remains between them. A truncated octahedron has 14 faces: 8 regular hexagons and 6 squares. Each face is shared with exactly one neighboring cell, so every cell has 14 face-sharing neighbors.  
@@ -23,7 +23,7 @@ The hexagonal neighbors lie closer to the central cell than the square neighbors
 The central cell corresponds to the sympan of origin, and the other cells correspond to the sympanta in which its counterparts are found.  
   
 ## Relationship to recorded observations  
-Library Alhazen observers have recorded encounters with 14 counterparts, a number matching the neighbors of a single cell in the model. Counting the observer, the arrangement contains 15 individuals sharing a recognizable correspondence. The first individuals bearing no similarity sufficient for counterpart classification would lie in the cells beyond the 14.  
+The founder of Library Alhazen has recorded encounters with 14 counterparts, a number matching the neighbors of a single cell in the model. Counting the founder, the arrangement contains 15 individuals sharing a recognizable correspondence. The first individuals bearing no similarity sufficient for counterpart classification would lie in the cells beyond the 14.  
   
 The model predicts that counterparts occupy two tiers of similarity, with eight nearer and six more distant. Observers have described counterparts as decreasing in similarity, including one sharing only the observer’s name. Whether recorded counterparts fall into two distinct tiers has not been determined.  
   
