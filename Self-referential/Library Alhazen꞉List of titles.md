@@ -19,7 +19,8 @@ The following titles are currently recognized within Library Alhazen.
 - Big and quiet Sabitha  
   
 ### C  
--  Cocksure yet sagacious Sabitha  
+- Charlotte fangirl Sabitha  
+- Cocksure yet sagacious Sabitha  
   
 ### D  
 -   
@@ -56,6 +57,7 @@ The following titles are currently recognized within Library Alhazen.
 - Narcissistic and noble Sabitha  
   
 ### O  
+- Observant and hungry Sabitha  
 - Overzealous but comedic Sabitha  
   
 ### P  
@@ -77,12 +79,13 @@ The following titles are currently recognized within Library Alhazen.
 ### T  
 - Tasty and sweet Sabitha  
 - Tasty and savoury Sabitha  
+- The dirty gun Sabitha  
   
 ### U  
 - Ubiquitous and sneaky Sabitha  
   
 ### V  
-- Very Fine Sabitha  
+- Very fine Sabitha  
   
 ### W  
 -   
