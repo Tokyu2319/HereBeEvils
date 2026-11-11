@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Alima is the calendar system used by Library Alhazen for the measurement and organization of time. Its epoch begins with the founding of Library Alhazen, with the year of its establishment designated as Alima 1.  
+**Alima** (/ʕaˈliː.ma/) is the calendar system used by Library Alhazen for the measurement and organization of time. Its epoch begins with the founding of Library Alhazen, with the year of its establishment designated as Alima 1.  
   
 The calendar consists of 360 days divided into twelve months, each containing 30 days. A standard day consists of 24 hours, while each week consists of six days. The institutional work schedule follows a five-day workweek followed by one designated rest day.  
   
