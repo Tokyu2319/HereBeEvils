@@ -23,7 +23,7 @@ The following titles are currently recognized within Library Alhazen.
 - Cocksure yet sagacious Sabitha  
   
 ### D  
--   
+- Down-to-earth and damp Sabitha  
   
 ### E  
 - Edible and credible Sabitha  
@@ -42,10 +42,11 @@ The following titles are currently recognized within Library Alhazen.
 - Inquisitive, intrusive, and harmful Sabitha  
   
 ### J  
--   
+- Junoesque Sabitha  
   
 ### K  
--   
+- Knavish and jovial Sabitha  
+- Kittenish Sabitha  
   
 ### L  
 - Lazy but dependable Sabitha  
@@ -61,12 +62,13 @@ The following titles are currently recognized within Library Alhazen.
 - Overzealous but comedic Sabitha  
   
 ### P  
--   
+- Pursuing apotheosis Sabitha  
   
 ### Q  
--   
+- Quiescent and tableau Sabitha  
   
 ### R  
+- Really, actually, and truly Sabitha  
 - Riddling and puzzling Sabitha  
 - Rhyming and rhythmical Sabitha  
   
@@ -88,10 +90,10 @@ The following titles are currently recognized within Library Alhazen.
 - Very fine Sabitha  
   
 ### W  
--   
+- Wayward and difficult Sabitha  
   
 ### X  
--   
+- Xenophilic and conservationist Sabitha   
   
 ### Y  
 -   
@@ -131,14 +133,17 @@ This section contains titles with no current holder.
 ### H  
 - Helpless Sabitha  
   
+### J  
+- Juvenescent Sabitha  
+  
 ### L  
 - Lābùbù Sabitha  
   
-### N  
-- Needy Sabitha  
-  
 ### M  
 - Milk-drunk Sabitha  
+  
+### N  
+- Needy Sabitha  
   
 ### O  
 - One more Sabitha  
