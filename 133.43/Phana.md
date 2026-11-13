@@ -2,9 +2,10 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from Someone.*  
+> *The information presented in this article is information provided from Ramanujan.*  
   
-**Phana** (/ˈfɑː.nə/) is a subatomic particle that exhibits photon-like behavior. Phana carries energy and is metastable once generated. According to Someone‘s information, durations of phana metastability ranges from approximately 60 milliseconds to 4 years. Upon destabilization, phana transfers its energy into the surrounding environment. Phana possesses wavelength and frequency similar to photons, determined at generation and through interaction with matter. The thaumical process for converting mana into phana and releasing it is known as **phanagenesis**.  
+~  
+**Phana** (/ˈfɑː.nə/) is a subatomic particle that exhibits photon-like behavior. Phana carries energy and is metastable once generated. According to Ramanujan‘s information, durations of phana metastability ranges from approximately 60 milliseconds to 4 years. Upon destabilization, phana transfers its energy into the surrounding environment. Phana possesses wavelength and frequency similar to photons, determined at generation and through interaction with matter. The thaumical process for converting mana into phana and releasing it is known as **phanagenesis**.  
   
 ## Phana and anima  
 Phana is able to reflect off an unobstructed [anima](../120/Anima.md). Because an anima is usually enclosed within a [corpus](../120/Corpus.md), and a corpus blocks both phana and light, the anima of a living being is generally difficult to illuminate. Transient animae are not enclosed in a corpus and are generally easy to illuminate (see [transience](../120/Anima.md#Transience)).  
