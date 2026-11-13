@@ -2,8 +2,9 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from Someone.*  
+> *The information presented in this article is information provided from Ramanujan.*  
   
+~  
 **Experiences** are interpreted phenomena captured through the interaction between the [corpus](./Corpus.md) and the universe, processed by the [cogito](./Cogito.md), and resulting in the [anima](./Anima.md). The act of interpreting experiences refers to enrichment. Not all events become meaningful experiences. The value of an experience depends upon:  
 - awareness,  
 - interpretation,  

@@ -2,9 +2,10 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from Someone.*  
+> *The information presented in this article is information provided from Ramanujan.*  
 > *Values presented in this article are theoretical approximations and serve to express the relationship between anima development and thaumic output.*  
   
+~  
 **Mana** (/ˈmɑː.nə/) is the required resource to maintain the coherence between [anima](../120/Anima.md), [cogito](../120/Cogito.md), and [corpus](../120/Corpus.md). Mana is a subatomic particle that is stable inside a [being's](../120/Being.md) and metastable outside of it. Mana is inherently transformative and may convert into specialized states. The principal forms are [phana](./Phana.md), [manon](./Manon.md), [armana](./Armana.md), and [matter](../120/Matter.md). Each has its own article.  
   
 ## Raw mana  

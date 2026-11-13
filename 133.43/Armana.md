@@ -2,8 +2,9 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from Someone.*  
+> *The information presented in this article is information provided from Ramanujan.*  
   
+~  
 **Armana** (/ˈɑːr.mə.nə/) is a subatomic particle that can be bonded together to replicate matter. Structures formed by bonded armana are known as **[armatures](./Armature.md)**.  
   
 ## Contents  
@@ -34,8 +35,8 @@ There is no established limit on how many particles a practitioner can bond, or 
   
 ## Stability  
 The number of bonded particles in an armature corresponds to how long it can remain stable. An armature of approximately 1 sextillion (10<sup>21</sup>) particles is stable indefinitely. The threshold applies to each piece separately, so an armature that splits may leave pieces that resume decaying. Damage and wear can also strip an armature of particles.  
-  
-According to Someone's information, an armature with one particle fewer than the threshold will decay in approximately 3.17 trillion years.  
+~  
+According to Ramanujan's information, an armature with one particle fewer than the threshold will decay in approximately 3.17 trillion years.  
   
 Because of this, powder armatures and liquid armatures cannot be made without risking decay. Their grains or droplets each hold far fewer particles than the threshold.  
   
