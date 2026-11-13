@@ -2,8 +2,9 @@
 share: true
 ---
 > [!Note]  
-> *The information presented in this article is information provided from Someone.*  
+> *The information presented in this article is information provided from  Ramanujan.*  
   
+~  
 A **wormhole** is a pair of points in space that are pulled together by [fine-controlled](../133.43/Manokinesis.md#Fine%20control) [manon](../133.43/Manon.md). Any two points within the influence radius of the controlling manon can be chosen as its endpoints.  
   
 ## Contents  
