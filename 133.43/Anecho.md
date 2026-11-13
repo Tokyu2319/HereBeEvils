@@ -9,7 +9,6 @@ An **anecho** (/aˈne.kho/) is a [being](../120/Being.md) born with a birthmark 
 - [Counterparts](Anecho.md#Counterparts)  
 - [Documented anechoi](Anecho.md#Documented%20anechoi)  
 - [Distribution](Anecho.md#Distribution)  
-- [Limitations of the classification](Anecho.md#Limitations%20of%20the%20classification)  
   
 ## Birthmarks  
 Every anecho is born with a single **anecho birthmark**. The presence of a birthmark is regarded as proof that its bearer is an anecho (see [Charlotte](../920/Charlotte%20(anecho).md)).  
@@ -34,11 +33,8 @@ Some abilities depend upon the structure of the universe described in the articl
 ## Counterparts  
 Some anechoi have no counterparts. Others have counterparts and are nevertheless anecho, and at least one documented ability depends upon the existence of counterparts. The absence of counterparts is therefore regarded as a trait of some anechoi and not as a requirement of the classification.  
   
-## Documented anechoi  
-<img src="../Active%20armatures/Memorylossmandelbrot.jpg" width="100">  
-  
+## Documented anecho  
 The following anechoi are documented by Library Alhazen:  
-- Ramanujan  
 - Athanatos  
 - Charlotte  
 - Nelu  
