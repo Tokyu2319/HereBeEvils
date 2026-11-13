@@ -2,8 +2,9 @@
 share: true
 ---
 > [!Note]  
-> *The information presented in this article is information provided from Someone.*  
+> *The information presented in this article is information provided from Ramanujan.*  
   
+~  
 An **armature** is a structure of bonded [armana](./Armana.md). Armatures serve as a substitute material, as a program that automates thaumical acts, or as both. An armature complex enough to support a cerebrum is classed as autonomous.  
   
 ## Contents  
