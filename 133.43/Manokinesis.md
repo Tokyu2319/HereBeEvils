@@ -15,7 +15,9 @@ share: true
 - [Flight](Manokinesis.md#Flight)  
 - [Limitations](Manokinesis.md#Limitations)  
 - [Applications](Manokinesis.md#Applications)  
-  
+- [Fine control](Manokinesis.md#Fine%20control)  
+	- [Susceptibility](Manokinesis.md#Fine%20control)  
+	- [Very fine control](Manokinesis.md#Fine%20control)  
   
 ## Stabilization  
 Manon is naturally metastable, with a duration ranging from approximately 0.8 to 5 seconds after generation. Through manokinesis, a practitioner can suspend this metastability entirely, allowing particles to remain stable for as long as control is maintained.  
@@ -70,7 +72,7 @@ Hovering requires the attractive force to balance the gravitational force acting
   
 The quantity of manon required for flight depends on the practitioner’s mass and the gravitational force acting upon them. Each active particle contributes approximately 120 millinewtons of attractive force within its interaction radius. Carrying additional passengers or objects requires a corresponding increase in available manokinetic force.  
   
-Manokinetic forces can be applied to specific locations on the practitioner’s body. When the resultant force acts through the body’s center of mass, it primarily produces translational acceleration. When applied away from the center of mass, it can additionally produce torque, causing the body to rotate. Practitioners can distribute forces across multiple locations to control their orientation and reduce excessive localized stress.  
+Manokinetic forces can be applied to specific locations on the practitioner’s body. When the resultant force acts through the body’s centre of mass, it primarily produces translational acceleration. When applied away from the centre of mass, it can additionally produce torque, causing the body to rotate. Practitioners can distribute forces across multiple locations to control their orientation and reduce excessive localized stress.  
   
 Changes in velocity and direction can subject practitioners to substantial mechanical stress. Their ability to withstand such forces depends on their [corpus’](../120/Corpus.md) physical composition and structural properties. Consequently, the maximum practical acceleration and manoeuvrability attainable through manokinetic flight vary between practitioners.  
   
