@@ -2,9 +2,8 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from Ramanujan.*  
+> *The information presented in this article is information provided from <img src="../Active%20armatures/Minormemorylossmandelbrot.jpg" width="12"> Ramanujan.*  
   
-~  
 **Manokinesis** is the thaumical practice of stabilizing and manipulating [manon](./Manon.md) under a [cogito](../120/Cogito.md) or an armature. It allows practitioners to suspend the natural metastability of manon and impose controlled properties upon it, enabling the exertion of attractive forces independently of the particle’s natural destabilization.  
   
 ## Contents  

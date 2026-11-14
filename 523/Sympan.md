@@ -2,9 +2,8 @@
 share: true
 ---
 > [!note]  
-> *The information presented in this article is information provided from Ramanujan.*  
+> *The information presented in this article is information provided from <img src="../Active%20armatures/Minormemorylossmandelbrot.jpg" width="12"> Ramanujan.*  
   
-~  
 A **sympan** is a domain of reality distinguished from neighboring domains by differences in their histories and macroscopic states. The universe is understood to comprise an immense number of such sympanta, each encompassing a range of minor variations that collectively correspond to a dominant macroscopic state. Sympanta are not described as separate universes governed by different physical laws, but as distinct domains within a single universe. Observations made during intersympantic travel are consistent with this description.  
   
 Sympantic boundaries are associated with substantial divergences in the histories or macroscopic states of reality. The degree of similarity between neighboring sympanta progressively decreases with increasing sympantic distance, reflecting the accumulation of historical and macroscopic divergences. Minor variations do not distinguish separate sympanta, whereas more substantial differences, such as alternate historical developments or the existence of counterparts to familiar individuals, indicate that two observations originate from different sympanta. The precise criteria by which these divergences are classified have not been established.  
@@ -24,5 +23,4 @@ Counterpart relations are reciprocal but not transitive. If one individual is a 
 ## Proposed geometry  
 > Main article: [Proposed sympanta geometry](../501/Proposed%20sympanta%20geometry.md)  
   
-Library Alhazen has proposed a geometric model of sympantic adjacency that accounts for the number of recorded counterparts. The model is unconfirmed. It is a proposal of Library Alhazen and is not part of the information provided by Ramanujan.  
-~
+Library Alhazen has proposed a geometric model of sympantic adjacency that accounts for the number of recorded counterparts. The model is unconfirmed. It is a proposal of Library Alhazen and is not part of the information provided by <img src="../Active%20armatures/Minormemorylossmandelbrot.jpg" width="12"> Ramanujan.

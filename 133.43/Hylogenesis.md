@@ -2,9 +2,8 @@
 share: true
 ---
 > [!Note]  
-> *The information presented in this article is information provided from Ramanujan.*  
+> *The information presented in this article is information provided from <img src="../Active%20armatures/Minormemorylossmandelbrot.jpg" width="12"> Ramanujan.*  
   
-~  
 **Hylogenesis** is the thaumical process of converting [mana](./Mana.md) into [matter](../120/Matter.md). The matter produced is ordinary matter, and its chemistry is not limited. The practice of hylogenesis using the knowledge of living systems is known as [biogenesis](Hylogenesis.md#Biogenesis).  
   
 ## Contents  
