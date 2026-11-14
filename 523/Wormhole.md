@@ -34,4 +34,4 @@ The ring also protects the rim of the wormhole from stray matter. Placing a worm
 ## Intersympantic travel  
 Intersympantic travel can be achieved by stacking wormhole armatures along a path. A higher tier of manokinesis, **very fine control**, is used for this purpose. Very fine control is fine control with its influence radius expanded to approximately 10<sup>10<sup>72</sup></sup>/12 meters, a fraction of the distance given for reaching a neighboring [sympan](./Sympan.md).  
   
-The coordinates of [sympanta](Library%20Alhazen:Sympanta%20coordinates.md) are a system for naming and are not used for travel.
+The coordinates of [sympanta](Library%20Alhazen꞉Sympanta%20coordinates.md) are a system for naming and are not used for travel.
