@@ -25,7 +25,7 @@ Following their partitioning, each individual develops through their own experie
 Consequently, the designation of a staff member as a partition of Sabitha does not necessarily imply that the individual should be regarded as interchangeable with the founder or other staff members.  
   
 ## Titles and designations  
-> Main article: [Library Alhazen:Title](Library%20Alhazen:Title.md)  
+> Main article: [Library Alhazen꞉Title](./Library%20Alhazen%EA%9E%89Title.md)  
   
 Each staff member identifies themselves through an individual title describing distinguishing aspects of their personality or behavioral characteristics. These titles serve as their primary means of individual identification within the Library.  
   
