@@ -10,6 +10,6 @@ According to the theory, thought does not arise from matter alone but from matte
 ## Formation of the constituents  
 The theory holds that a being’s constituents do not form at once. Corpus comes first, as complexity organizes matter into a stable structure able to interact with its surroundings. Cogito follows as the cerebrum becomes able to process stimuli, form internal representations, and sustain awareness. [Anima](../120/Anima.md) is understood to form last, since it is built from the [experiences](../120/Experience.md) cogito gathers and interprets. It follows that no anima arises without cogito, and no cogito without a corpus of sufficient complexity.    
   
-The threshold is not tied to a particular substrate. Neural tissue, distributed biological networks, synthetic processors, and armature have each been reported to reach it, and the theory does not rule out architectures not yet known.  
+The threshold is not tied to a particular substrate. Neural tissue, distributed biological networks, synthetic processors, and armatures have each been reported to reach it, and the theory does not rule out architectures not yet known.  
   
 The theory therefore treats complexity as a condition of being: it is held to determine whether a corpus can give rise to thought, identity, and self-awareness, and the order in which those constituents form.
