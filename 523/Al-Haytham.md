@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-**Al-Haytham** is a K-type main-sequence star located at the center of the Al-Haytham planetary system. It has a stellar classification of K2V and hosts three confirmed planets, designated Al-Haytham b, Al-Haytham c, and Al-Haytham d, as well as an artificial megastructure known as the Library Alhazen. The star has a mass of 0.82 solar masses, a radius of 0.79 solar radii, and an effective temperature of 5,100 K. Its luminosity is 0.38 solar luminosities, and its estimated age is 6.8 billion years.  
+**Al-Haytham** is a K-type main-sequence star located at the centre of the Al-Haytham planetary system. It has a stellar classification of K2V and hosts three confirmed planets, designated Al-Haytham b, Al-Haytham c, and Al-Haytham d, as well as an artificial megastructure known as the Library Alhazen. The star has a mass of 0.82 solar masses, a radius of 0.79 solar radii, and an effective temperature of 5,100 K. Its luminosity is 0.38 solar luminosities, and its estimated age is 6.8 billion years.  
   
 Al-Haytham is an orange dwarf star with a relatively low stellar mass and luminosity. It belongs to the main sequence, where it generates energy through the nuclear fusion of hydrogen into helium in its core. Its planetary system consists of three planets with distinct orbital characteristics, ranging from a relatively close-in terrestrial planet to a distant gas giant. The system also contains an artificial megastructure orbiting within the circumstellar habitable zone.  
   
