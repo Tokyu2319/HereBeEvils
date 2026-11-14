@@ -17,26 +17,33 @@ A year is divided into four seasons, each comprising three consecutive months. T
 ## Months  
 The calendar contains twelve months, each consisting of 30 days.  
   
-|   |   |  
-|---|---|  
-|Month|Duration|  
-|First month|30 days|  
-|Second month|30 days|  
-|Third month|30 days|  
-|Fourth month|30 days|  
-|Fifth month|30 days|  
-|Sixth month|30 days|  
-|Seventh month|30 days|  
-|Eighth month|30 days|  
-|Ninth month|30 days|  
-|Tenth month|30 days|  
-|Eleventh month|30 days|  
-|Twelfth month|30 days|  
-|Total|360 days|  
+|Month|Duration|Day number|Day name|  
+|:---:|:---:|:---:|:---:|  
+|Magnolia|30 days|1|Yozora  
+|Primrose|30 days|2|Týr  
+|Daffodil|30 days|3|Odin  
+|Daisy|30 days|4|Thor  
+|Hawthorn|30 days|5|Frigg  
+|Allium|30 days|6|Ōzora  
+|Lily|30 days|  
+|Gladiolus|30 days|  
+|Aster|30 days|  
+|Marigold|30 days|  
+|Peony|30 days|  
+|Poinsettia|30 days|  
+|**Total**|**360 days**|  
   
 ## Seasons  
 The year is divided into four seasons, each containing three months and lasting 90 days.  
 Each season corresponds to one quarter of the calendar year.  
+  
+|Season|Name|Months|Duration|  
+|:---:|:---:|:---:|:---:|  
+|First season|Euler|Magnolia-Daffodil|90 days|  
+|Second season|Phi|Daisy-Allium|90 days|  
+|Third season|Pi|Lily-Aster|90 days|  
+|Fourth season|Tau|Marigold-Poinsettia|90 days|  
+|   |**Total**|**12 months**|**360 days**|  
   
 ## Weeks and working days  
 A standard Alima week consists of six consecutive days. The institutional work schedule designates five days for regular work activities, followed by one rest day.  
