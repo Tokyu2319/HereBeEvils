@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-**Proposed sympanta geometry** is a geometric model of sympantic adjacency in which each sympan is represented as a truncated octahedron within a space-filling arrangement of identical cells. The model was proposed to account for the number of counterparts recorded by founder of Library Alhazen.  
+**Proposed sympanta geometry** is a geometric model of sympantic adjacency in which each sympan is represented as a truncated octahedron within a space-filling arrangement of identical cells. The model was proposed to account for the number of counterparts recorded by the founder of Library Alhazen.  
   
 ## Model  
 In the proposed model, sympanta are represented by cells of a single shape, the truncated octahedron, packed so that no space remains between them. A truncated octahedron has 14 faces: 8 regular hexagons and 6 squares. Each face is shared with exactly one neighboring cell, so every cell has 14 face-sharing neighbors.  
@@ -18,7 +18,7 @@ The hexagonal neighbors lie closer to the central cell than the square neighbors
 ## Illustration  
 <img src="../Library%20assets/15-cell%20bitruncated%20cubic%20honeycomb.jpg" width="400">   
   
-*Figure: Fifteen truncated octahedra, with one cell cyan in colour.*  
+*Figure: Fifteen truncated octahedra, with one cell teal in colour.*  
   
 The central cell corresponds to the sympan of origin, and the other cells correspond to the sympanta in which its counterparts are found.  
   
