@@ -96,10 +96,10 @@ The following titles are currently recognized within Library Alhazen.
 - Xenophilic and conservationist Sabitha   
   
 ### Y  
--   
+- Ymophobic and pleasing Sabitha  
   
 ### Z  
--   
+- Zoophilic and denying Sabitha  
   
 ## Former and modified titles  
 This section contains titles that are no longer in current use or have been replaced through administrative decisions.  
@@ -115,10 +115,14 @@ This section contains titles that are no longer in current use or have been repl
 - Rhyming Sabitha — Replaced by *Rhyming and rhythmical Sabitha*.  
   
 ### S  
-- Slothful and carefree Sabitha — Replaced by *[Saba](Saba.md)* following an administrative demotion.  
+- Slothful and carefree Sabitha — Replaced by *Saba* following an administrative demotion.  
   
 ### T  
 - Tasty Sabitha — Replaced by *Tasty and savoury Sabitha* and *Tasty and sweet Sabitha*.  
+  
+### Z  
+  
+- Zoophilic Sabitha — Replaced by *Zoophilic and denying Sabitha*.  
   
 ## Unassigned titles  
 This section contains titles with no current holder.  
