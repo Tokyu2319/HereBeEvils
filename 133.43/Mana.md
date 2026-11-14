@@ -9,9 +9,9 @@ share: true
 **Mana** (/ˈmɑː.nə/) is the required resource to maintain the coherence between [anima](../120/Anima.md), [cogito](../120/Cogito.md), and [corpus](../120/Corpus.md). Mana is a subatomic particle that is stable inside a [being's](../120/Being.md) and metastable outside of it. Mana is inherently transformative and may convert into specialized states. The principal forms are [phana](./Phana.md), [manon](./Manon.md), [armana](./Armana.md), and [matter](../120/Matter.md). Each has its own article.  
   
 ## Raw mana  
-Raw mana are mana particles existing independently from their anima and outside their specialized states. Raw mana will naturally convert itself into phana or manon when it enters their fields. Raw mana is inherently temporary and subject to mana decay.  
+Raw mana particles are mana particles existing independently from their anima and outside their specialized states. Raw mana will naturally convert itself into phana or manon when it enters their fields. Raw mana is inherently temporary and subject to mana decay.  
   
-Raw mana travels slower than the speed of light, similar to neutrinos. It passes through matter without being obstructed. The only known exception are [armatures](./Armature.md), which has been observed to produce a field that bounces raw mana. A bounce changes only the direction of the raw mana.  
+Raw mana travels slower than the speed of light, similar to neutrinos. It passes through matter without being obstructed. The only known exceptions are [armatures](./Armature.md), which has been observed to produce a field that bounces raw mana. A bounce changes only the direction of the raw mana.  
   
 ### Raw mana decay  
 Raw mana cannot return to the anima from which it was released and undergoes irreversible decay at an apparently constant rate. Raw mana typically decays within 0.8 to 5 seconds of its release. This decay eventually destabilizes the raw mana, causing it to release its remaining energy through one of several known manifestations of destabilization:  
@@ -40,7 +40,7 @@ Mana is released through the corpus and may be converted into specialized states
 The amount of mana a being may contain and generate is determined primarily by [the value of their anima](../120/Experience.md#Comparative%20values).  
   
 - Mana capacity ($MC$) = 10 × $AV$  
-- Mana generation ($MG$) = √AV × $S$ per cycle  
+- Mana generation ($MG$) = √$AV$ × $S$ per cycle  
   
 Where:  
 - $MC$ = mana capacity  

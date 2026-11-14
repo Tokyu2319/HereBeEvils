@@ -23,9 +23,9 @@ The rate at which an anima accumulates its value is determined primarily by the 
   
 As a result, two beings exposed to the same event may derive vastly different experiential value from it.  
   
-A being’s cerebrum possessing immense cognitive capability may rapidly accumulate value even within a limited environment, while a being with simpler cerebrum may require extensive time or exposure to achieve similar growth.  
+A being’s cerebrum possessing immense cognitive capability may rapidly accumulate value even within a limited environment, while a being with a simpler cerebrum may require extensive time or exposure to achieve similar growth.  
   
-However, cognitive capability alone does not guarantee unlimited growth. Novelty, interpretive variation, emotional significance, and environmental diversity remain necessary for meaningful experiential accumulation. Because of this, many highly intelligent beings eventually encounter a stopping point despite their advanced cognition. This particular phenomenon refers to experiential stagnation.  
+However, cognitive capability alone does not guarantee unlimited growth. Novelty, interpretive variation, emotional significance, and environmental diversity remain necessary for meaningful experiential accumulation. Because of this, many highly intelligent beings eventually encounter a stopping point despite their advanced cognition. This particular phenomenon is called experiential stagnation.  
   
 ## Comparative values  
 These classifications are theoretical approximations used to describe the experiential maturity of animae. Though exact measurement remains impossible, thaumaturgists commonly categorize animae into broad ranges for comparative study. Anima value is denoted as $AV$.  

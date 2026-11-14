@@ -13,7 +13,7 @@ The 14 neighbors fall into two groups:
 - **Eight hexagonal neighbors**, sharing a hexagonal face with the central cell.  
 - **Six square neighbors**, sharing a square face with the central cell.  
   
-The hexagonal neighbors lie closer to the central cell than the square neighbors. Their centers are separated by approximately 2.45 edge lengths, compared with approximately 2.83 for the square neighbors, a difference of about 15 percent. Cells not sharing a face with the central cell, beginning with a group of twelve, do not touch it and lie farther away than any of the 14.  
+The hexagonal neighbors lie closer to the central cell than the square neighbors. Their centres are separated by approximately 2.45 edge lengths, compared with approximately 2.83 for the square neighbors, a difference of about 15 percent. Cells not sharing a face with the central cell, beginning with a group of twelve, do not touch it and lie farther away than any of the 14.  
   
 ## Illustration  
 <img src="../Library%20assets/15-cell%20bitruncated%20cubic%20honeycomb.jpg" width="400">   
@@ -28,7 +28,7 @@ The founder of Library Alhazen has recorded encounters with 14 counterparts, a n
 The model predicts that counterparts occupy two tiers of similarity, with eight nearer and six more distant. Observers have described counterparts as decreasing in similarity, including one sharing only the observer’s name. Whether recorded counterparts fall into two distinct tiers has not been determined.  
   
 ## Reciprocity and transitivity  
-Face-sharing is mutual, so counterpart relations are reciprocal in the model. They are not transitive. A neighboring cell has 14 neighbors of its own, only some of which are shared with the central cell. Every individual is therefore the center of a separate group of counterparts, and the model describes no region in which all individuals correspond to one another.  
+Face-sharing is mutual, so counterpart relations are reciprocal in the model. They are not transitive. A neighboring cell has 14 neighbors of its own, only some of which are shared with the central cell. Every individual is therefore the centre of a separate group of counterparts, and the model describes no region in which all individuals correspond to one another.  
   
 ## Limitations  
 The model was fitted to a single recorded figure and is consistent with it. It does not account for why sympanta should take a regular shape, the relationship between cell size and the distance given for neighboring sympanta, or why counterpart classification should end at the boundary of adjacency. Other arrangements of space-filling cells may account for the same figure, and Library Alhazen does not regard this proposal as established.

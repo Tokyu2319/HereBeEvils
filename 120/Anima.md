@@ -5,13 +5,13 @@ share: true
   
 ## Mana exhaustion  
 Mana exhaustion occurs when a being depletes its internal mana reserves beyond sustainable limits. Because mana contributes to the cohesion between the cogito, corpus, and anima, severe depletion may destabilize the integrity of the three constituents themselves. Early symptoms commonly include:  
-- physical weakness,  
-- cognitive impairment,  
-- emotional destabilization,  
-- sensory distortion,  
-- and diminished awareness of self.  
+- Physical weakness  
+- Cognitive impairment  
+- Emotional destabilization  
+- Sensory distortion  
+- Diminished awareness of self  
   
-Extreme exhaustion will result in decoherence of the three constituents without necessary harm to either the corpus or the cogito. Decoherence will generally result in death.  
+Extreme exhaustion will result in decoherence of the three constituents without necessary harm to neither the corpus or the cogito. Decoherence will generally result in death.  
   
 ### Mana exhaustion blindness  
 Paradoxically, beings whose anima are of higher value, are often more vulnerable to catastrophic exhaustion despite their immense mana reserves. The vast scale of their reserves may obscure awareness of depletion until decoherence has already begun.  

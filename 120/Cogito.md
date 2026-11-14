@@ -19,7 +19,7 @@ share: true
 According to the [theory of complexity](../501/Theory%20of%20complexity.md), cogito does not arise from matter alone but from a corpus whose cerebrum is capable enough to support it. Simple corpora, such as those of trees, are generally regarded as supporting only a minimal, non-thinking cogito. The complexity of a cogito is limited by the capacity of the cerebrum that supports it.  
   
 ## The memories of a cogito  
-The memories of a cogito refers to the result of [ the corpus’ stored information](./Corpus.md#The%20memories%20of%20a%20corpus), which cannot be retrieved as the cogito does not hold the mechanism to support recalling. These memories are mutable through [manokinesis](../133.43/Manokinesis.md), changing to add new memories.  
+The memories of a cogito are impressions of [the corpus’ stored information](./Corpus.md#The%20memories%20of%20a%20corpus), which cannot be retrieved as the cogito does not hold the mechanism to support recalling. These memories are mutable through [manokinesis](../133.43/Manokinesis.md), changing to add new memories.  
   
 ## Loss and replacement  
 When a corpus is destroyed, cogito ceases and its anima enters [transience](./Anima.md#Transience). When cogito is lost while the corpus remains intact, the corpus will give rise to a new cogito when circumstances allow. The new cogito retains no memory of the old one and is a separate individual. If the anima is prevented from entering transience, the separate individual will share the anima of its predecessor.  
@@ -34,7 +34,7 @@ Cogito is the primary instrument of thaumaturgy. It converts [mana](../133.43/Ma
 Cogito has been found to respond to manokinesis, and in this sense it can become **tangible** and be acted on. Practitioners generally discourage the practice, since interference can cause temporary memory loss. Trained practitioners make use of this property in the practice of hallucikinesis and cognitive assimilation.   
   
 ### Hallucikinesis  
-A type of manokinesis used in order to alter how cogito receives, filters, or interprets input from its corpus. An incredible amount of control is needed to effectively use hallucikinesis. Three types of hallucikinesis can be found throughout the universe, they differ in sensory input and they can be used simultaneously.  
+A type of manokinesis used in order to alter how cogito receives, filters, or interprets input from its corpus. An incredible amount of control is needed to effectively use hallucikinesis. Three types of hallucikinesis can be found throughout the universe, they differ in what they alter and they can be used simultaneously  
 - Somatic Hallucikinesis  
 Alters input from external bodily sensations, body orientation, movement, and internal bodily states.  
 - Sensory Hallucikinesis  
@@ -50,4 +50,4 @@ A type of manokinesis used to construct and implant new memories into a cogito. 
 ### Cognitive assimilation  
 Cognitive assimilation is when a donor cogito assimilates with a recipient’s cerebrum. As the donor assimilates with the recipient, the donor’s stored information may become accessible regardless of whether the recipient originally experienced those events.  
   
-The extent of assimilation depends upon the compatibility between the cogito and the cerebrum. That is if the donor shares similar memories with the recipient’s memories or none. Compatible pairings integrate smoothly, while incompatible pairings may result in confusion, psychological strain, or difficulty distinguishing personal experiences from acquired memories. Acquiring the donor‘s memories does not automatically alter recipient’s identity. However, prolonged exposure may influence interpretation, behavior, and self-perception.
+The extent of assimilation depends upon the compatibility between the cogito and the cerebrum. That is if the donor shares similar memories with the recipient’s memories or none. Compatible pairings integrate smoothly, while incompatible pairings may result in confusion, psychological strain, or difficulty distinguishing personal experiences from acquired memories. Acquiring the donor‘s memories does not automatically alter the recipient’s identity. However, prolonged exposure may influence interpretation, behavior, and self-perception.

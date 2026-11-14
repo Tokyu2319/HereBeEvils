@@ -17,7 +17,7 @@ An **armature** is a structure of bonded [armana](./Armana.md). Armatures serve 
 - [Autonomous armatures](Armature.md#Autonomous%20armatures)  
   
 ## Bounce field and storage  
-Every armature has been observed to produce a field with a radius of approximately 1.2 millitimeters that bounces [raw mana](./Mana.md#Raw%20mana). A bounce changes only the direction of the raw mana and is believed to reset its lifetime (see [raw mana and armatures](./Mana.md#Raw%20mana%20and%20armatures)). The field persists for as long as the armature exists, including while the armature is decaying.  
+Every armature has been observed to produce a field with a radius of approximately 1.2 millimeters that bounces [raw mana](./Mana.md#Raw%20mana). A bounce changes only the direction of the raw mana and is believed to reset its lifetime (see [raw mana and armatures](./Mana.md#Raw%20mana%20and%20armatures)). The field persists for as long as the armature exists, including while the armature is decaying.  
   
 Practitioners can store raw mana by building an armature. Raw mana under [manokinesis](./Manokinesis.md) is not bounced by the field, which allows it to be placed inside. Whether an armature draws upon its stored raw mana depends on the purpose for which it was programmed.  
   
