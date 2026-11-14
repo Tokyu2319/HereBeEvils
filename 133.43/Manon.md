@@ -65,7 +65,7 @@ This property permits manon to exert forces upon matter while remaining independ
 The precise nature of this field and the mechanisms governing its momentum transfer remain incompletely characterized.  
   
 ### Travel speed  
-The travel speed of manon fields is dependent on their particle quantity. A field containing $N$ particles possesses a maximum travel speed of approximately √12$N$ millimeters per second. This relationship applies independently to each field, regardless of its configuration.  
+The travel speed of manon fields is dependent on their particle quantity. A field containing N particles possesses a maximum travel speed of approximately √(12N) millimeters per second. This relationship applies independently to each field, regardless of its configuration.  
   
 When a connected field is separated into multiple disconnected fields, the maximum travel speed of each resulting field is recalculated according to its individual particle quantity. Reconnecting fields increases their maximum travel speed according to their combined quantity.  
   
