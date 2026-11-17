@@ -59,8 +59,6 @@ The following anechoi are documented by Library Alhazen:
 Four documented anechoi, Olive, Charlotte, Níu, and Nelu, reside in sympan (0, 0, -2), which holds the most anechoi the Library has documented. No cause for this concentration is known. The figure reflects the Library's observations and does not establish that anechoi are more common in that sympan.  
   
 ---  
-<label for="comments">Comments:</label><br>  
-<input type="text" id="username" name="username" placeholder="Write your message here…">  
   
 → Anecho kinda sounds like ane (姉) and neko (描) combined, no?  
   
