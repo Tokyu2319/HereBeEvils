@@ -20,6 +20,7 @@ The following titles are currently recognized within Library Alhazen.
   
 ### C  
 - Charlotte fangirl Sabitha  
+- Chatty, unreliable, and discerning Sabitha  
 - Cocksure yet sagacious Sabitha  
   
 ### D  
@@ -74,9 +75,9 @@ The following titles are currently recognized within Library Alhazen.
   
 ### S  
 - Strict and mature Sabitha  
-- Sunny and straight man Sabitha  
 - Stupid yet smart Sabitha  
 - Submissive and proactive Sabitha  
+- Sunny and straight man Sabitha  
   
 ### T  
 - Tasty and sweet Sabitha  
