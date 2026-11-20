@@ -14,17 +14,29 @@ The Alima calendar consists of 360 days distributed evenly across twelve months.
   
 A year is divided into four seasons, each comprising three consecutive months. The calendar does not require additional days or intercalary periods to maintain its standard annual duration.  
   
+## Days in a week  
+The calender contains sixty weeks, each consisting of 6 days.  
+  
+|Day number|Day name|  
+|:---:|:---:|  
+|1|Yozora  
+|2|Týr  
+|3|Odin  
+|4|Thor  
+|5|Frigg  
+|6|Ōzora  
+  
 ## Months  
 The calendar contains twelve months, each consisting of 30 days.  
   
-|Month|Duration|Day number|Day name|  
-|:---:|:---:|:---:|:---:|  
-|Magnolia|30 days|1|Yozora  
-|Primrose|30 days|2|Týr  
-|Daffodil|30 days|3|Odin  
-|Daisy|30 days|4|Thor  
-|Hawthorn|30 days|5|Frigg  
-|Allium|30 days|6|Ōzora  
+|Month|Duration|  
+|:---:|:---:|  
+|Magnolia|30 days|  
+|Primrose|30 days|  
+|Daffodil|30 days|  
+|Daisy|30 days|  
+|Hawthorn|30 days|  
+|Allium|30 days|  
 |Lily|30 days|  
 |Gladiolus|30 days|  
 |Aster|30 days|  
@@ -39,14 +51,14 @@ Each season corresponds to one quarter of the calendar year.
   
 |Season|Name|Months|Duration|  
 |:---:|:---:|:---:|:---:|  
-|First season|Euler|Magnolia-Daffodil|90 days|  
-|Second season|Phi|Daisy-Allium|90 days|  
+|First season|Phi|Magnolia-Daffodil|90 days|  
+|Second season|Euler|Daisy-Allium|90 days|  
 |Third season|Pi|Lily-Aster|90 days|  
 |Fourth season|Tau|Marigold-Poinsettia|90 days|  
 |   |**Total**|**12 months**|**360 days**|  
   
 ## Weeks and working days  
-A standard Alima week consists of six consecutive days. The institutional work schedule designates five days for regular work activities, followed by one rest day.  
+A standard Alima week consists of six consecutive days. The institutional work schedule designates five days for regular work activities, followed by Ōzora as the rest day.  
   
 This arrangement produces 60 complete weeks within a standard calendar year, comprising 300 scheduled working days and 60 designated rest days.  
   
