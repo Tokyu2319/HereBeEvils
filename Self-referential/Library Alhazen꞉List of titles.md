@@ -38,6 +38,7 @@ The following titles are currently recognized within Library Alhazen.
   
 ### H  
 - Honest and trustworthy Sabitha  
+- Holistic, fixated, and intrepid Sabitha  
   
 ### I  
 - Inquisitive, intrusive, and harmful Sabitha  
