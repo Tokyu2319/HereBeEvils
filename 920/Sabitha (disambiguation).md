@@ -1,7 +1,10 @@
 ---
 share: true
 ---
-**Sabitha** can be described as a greedy, formidable, and an epistemophilic woman. Sabitha is not to be confused with the [staff of Library Alhazen](../Self-referential/Library%20Alhazen%EA%9E%89Workforce.md).  
+> [!warning]  
+> Not to be confused with the [staff of Library Alhazen](../Self-referential/Library%20Alhazen%EA%9E%89Workforce.md).  
+  
+**Sabitha** can be described as a greedy, formidable, and an epistemophilic woman.  
   
 Sabitha may also refer to:  
 - Founder of Library Alhazen Sabitha (0, 0, 0)  
