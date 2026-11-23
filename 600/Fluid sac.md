@@ -22,9 +22,9 @@ For example, a practitioner who has lost an arm may create a fluid sac upon the 
 Fluid sacs are not restricted to the creation of biological matter. They can also be used when creating nonliving substances that benefit from lamination within a fluid environment.  
   
 ## Thermal considerations  
-When matter is created rapidly within afluid sac, the surrounding fluid may become dangerously hot. Practitioners can deliberately reduce the [thermal byproduct](../133.43/Hylogenesis.md#Thermal%20byproduct), but doing so requires additional focus. Alternatively, they can control the rate of creation, allowing the process to proceed more slowly.  
+When matter is created rapidly within a fluid sac, the surrounding fluid may become dangerously hot. Practitioners can deliberately reduce the [thermal byproduct](../133.43/Hylogenesis.md#Thermal%20byproduct), but doing so requires additional focus. Alternatively, they can control the rate of creation, allowing the process to proceed more slowly.  
   
 Care must therefore be taken when performing hylogenesis within an enclosed volume of fluid. A slower, controlled process may be preferable to rapid creation.  
   
 ## Disposal  
-Once the intended matter has been created, the practitioner tears apart the Fluid sac and disposes of it. Its biodegradable construction and disposable nature make it unsuitable as a permanent addition to the corpus.
+Once the intended matter has been created, the practitioner tears apart the fluid sac and disposes of it. Its biodegradable construction and disposable nature make it unsuitable as a permanent addition to the corpus.
