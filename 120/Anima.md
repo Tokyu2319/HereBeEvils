@@ -11,7 +11,7 @@ Mana exhaustion occurs when a being depletes its internal mana reserves beyond s
 - Sensory distortion  
 - Diminished awareness of self  
   
-Extreme exhaustion will result in decoherence of the three constituents without necessary harm to neither the corpus or the cogito. Decoherence will generally result in death.  
+Extreme exhaustion will result in decoherence of the three constituents without necessary harm to either the corpus or the cogito. Decoherence will generally result in death.  
   
 ### Mana exhaustion blindness  
 Paradoxically, beings whose anima are of higher value, are often more vulnerable to catastrophic exhaustion despite their immense mana reserves. The vast scale of their reserves may obscure awareness of depletion until decoherence has already begun.  
@@ -36,4 +36,4 @@ Cogito resurrection requires an anima in transience, an available corpus, and on
 Donor animae are transient animae. They are consumed and destroyed in the procedure. Cogito resurrection is the only known method of destroying an anima.  
   
 ### Distinction from replacement  
-When a cogito is lost while its corpus remains intact, the corpus may give rise to a new cogito, which is a separate individual (see [loss and replacement](./Cogito.md##Loss%2520and%2520replacement)). Cogito resurrection differs in that it restores the original cogito.
+When a cogito is lost while its corpus remains intact, the corpus may give rise to a new cogito, which is a separate individual (see [loss and replacement](./Cogito.md#Loss%20and%20replacement). Cogito resurrection differs in that it restores the original cogito.
