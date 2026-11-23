@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-A **hydrostatic hylogenesis chamber** (**HHC**) is an industrial equipment used to create large solids through [hylogenesis](../133.43/Hylogenesis.md). It consists of a chamber filled with a fluid medium, in which solids are created by [lamination](../133.43/Hylogenesis.md#Techniques%20for%20solids), with the medium acting as a fluid [corpus](../120/Corpus.md#Corpus%20extension).  
+**Hydrostatic hylogenesis chambers** (**HHC**) are used to create large solids through [hylogenesis](../133.43/Hylogenesis.md). It consists of a chamber filled with a fluid medium, in which solids are created by [lamination](../133.43/Hylogenesis.md#Techniques%20for%20solids), with the medium acting as a fluid [corpus](../120/Corpus.md#Corpus%20extension).  
   
 ## Contents  
 - [Structure](Hydrostatic%20hylogenesis%20chamber.md#Structure)  
@@ -43,11 +43,11 @@ A typical cycle proceeds as follows:
 1. The practitioner establishes contact with the chamber, and corpus extension is maintained.  
 2. Hylogenesis takes place within the medium, with the vacuum accommodating the new material.  
 3. When the solid is finished, the vacuum is released and the medium is drained or siphoned.  
-4. The opening of the chamber is opened, and a vehicle or an instrument is used to remove the solid.  
+4. The opening of the chamber opens, and a vehicle or an instrument is used to remove the solid.  
 5. The chamber is closed and returned to a vacuum, and the medium is put back for later use.  
   
 ## Mana supply  
-The chamber can be built to large dimensions, but the size of the solid it can produce is limited by the practitioner's mana. Most HHCs therefore include a mana store, a separate device that is part of the HHC and supplies mana to the equipment. Its form varies, and may resemble a tower, a silo, or something smaller such as a industrial batteries.  
+The chamber can be built to large dimensions, but the size of the solid it can produce is limited by the practitioner's mana. Most HHCs therefore include a mana store, a separate device that is part of the HHC and supplies mana to the equipment. Its form varies, and may resemble a tower, a silo, or something smaller such as industrial batteries.  
   
 ## Limitations  
 The size of a solid is limited by available mana and not by the dimensions of the chamber.  
