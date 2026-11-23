@@ -5,18 +5,18 @@ share: true
 > *The information presented in this article is information provided from <img src="../Active%20armatures/Minormemorylossmandelbrot.jpg" width="12"> Ramanujan.*  
 > *Values presented in this article are theoretical approximations and serve to express the relationship between anima development and thaumic output.*  
   
-**Mana** (/ˈmɑː.nə/) is the required resource to maintain the coherence between [anima](../120/Anima.md), [cogito](../120/Cogito.md), and [corpus](../120/Corpus.md). Mana is a subatomic particle that is stable inside a [being's](../120/Being.md) and metastable outside of it. Mana is inherently transformative and may convert into specialized states. The principal forms are [phana](./Phana.md), [manon](./Manon.md), [armana](./Armana.md), and [matter](../120/Matter.md). Each has its own article.  
+**Mana** (/ˈmɑː.nə/) is the required resource to maintain the coherence between [anima](../120/Anima.md), [cogito](../120/Cogito.md), and [corpus](../120/Corpus.md). Mana is a subatomic particle that is stable inside a [being's](../120/Being.md) and metastable outside of it. Mana is inherently transformative and may convert into specialized states. The principal forms are [phana](./Phana.md), [manon](./Manon.md), [armana](./Armana.md), and [matter](../530/Matter.md). Each has its own article.  
   
 ## Raw mana  
 Raw mana particles are mana particles existing independently from their anima and outside their specialized states. Raw mana will naturally convert itself into phana or manon when it enters their fields. Raw mana is inherently temporary and subject to mana decay.  
   
-Raw mana travels slower than the speed of light, similar to neutrinos. It passes through matter without being obstructed. The only known exceptions are [armatures](./Armature.md), which has been observed to produce a field that bounces raw mana. A bounce changes only the direction of the raw mana.  
+Raw mana travels slower than the speed of light, similar to neutrinos. It passes through matter without being obstructed. The only known exceptions are [armatures](./Armature.md), which have been observed to produce a field that bounces raw mana. A bounce changes only the direction of the raw mana.  
   
 ### Raw mana decay  
 Raw mana cannot return to the anima from which it was released and undergoes irreversible decay at an apparently constant rate. Raw mana typically decays within 0.8 to 5 seconds of its release. This decay eventually destabilizes the raw mana, causing it to release its remaining energy through one of several known manifestations of destabilization:  
 - radiant flashes and thermal discharge,  
 - transient force reactions,  
-- or spontaneous armagenesis* or [hylogenesis](./Hylogenesis.md).  
+- or spontaneous armagenesis or [hylogenesis](./Hylogenesis.md).  
   
 These manifestations correspond behaviorally to phana, manon, armana and matter respectively.  
   
