@@ -1,6 +1,8 @@
 ---
 share: true
 ---
+ &#8505;
+
 > [!note]  
 > *The information presented in this article is information provided from <img src="../Active%20armatures/Minormemorylossmandelbrot.jpg" width="12"> Ramanujan.*  
 > *Values presented in this article are theoretical approximations and serve to express the relationship between anima development and thaumic output.*  
