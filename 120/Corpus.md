@@ -18,7 +18,7 @@ Corpus assimilation is when an object that suffices in [complexity](../501/Theor
 ## Corpus extension  
 Corpus extension is the practice of expanding the defined boundary of a corpus through [mana](../133.43/Mana.md), allowing external objects, another corpus, or [hylogenized](../133.43/Hylogenesis.md) matter to be temporarily treated as part of the user’s own corpus. The practice of corpus extension may assist in corpus assimilation. This principle is fundamental to many branches of thaumics:  
 - Hylogenesis relies upon corpus extension to stabilize newly materialized solid matter.  
-- External biogenesis* uses corpus extension to integrate damaged tissue into the practitioner’s corpus for reconstruction or restoration.  
+- External [biogenesis](../133.43/Hylogenesis.md#Biogenesis) uses corpus extension to integrate damaged tissue into the practitioner’s corpus for reconstruction or restoration.  
 - Advanced thaumaturgy may use corpus extension to temporarily govern external structures, tools, or environments as though they were extensions of the corpus itself.  
   
 Without corpus extension, hylogenized matter often lacks sufficient structural continuity to remain stable, especially in the creation of rigid solids or complex biological structures.  
@@ -35,7 +35,7 @@ At the time of writing, [Sabitha](../Sabitha%20(0,%200,%20-2).md) has possessed 
 - Surface-to-air missile  
 - Guided missile  
 - Integrated steel plant  
-- Vacuum displacement chamber  
+- [Hydrostatic hylogenesis chamber](../600/Hydrostatic%20hylogenesis%20chamber.md)  
 - Nuclear reactor  
 - Reconnaissance satellite  
 - Orbital strike satellite  

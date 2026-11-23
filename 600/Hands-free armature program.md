@@ -30,7 +30,7 @@ The program may be configured with a range, allowing the object to follow a desi
 A hands-free program may be applied to many kinds of equipment. The following are examples and do not constitute an exhaustive list of its applications.  
   
 ### Shield  
-A shield held through a hands-free program leaves the practitioner's hands free to use other equipment, including two-handed weapons, heavy firearms, and staves. The program holds the shield and keeps it with the practitioner, but directing it against an attack remains a deliberate act of the practitioner's own manokinesis. Practitioners may also use multiple shields to intercept attacks from different directions (see [Thaumic combat doctrine](../Thaumic%20combat%20doctrine.md)).  
+A shield held through a hands-free program leaves the practitioner's hands free to use other equipment, including two-handed weapons, heavy firearms, and staves. The program holds the shield and keeps it with the practitioner, but directing it against an attack remains a deliberate act of the practitioner's own manokinesis. Practitioners may also use multiple shields to intercept attacks from different directions (see [Shield (thaumaturgy)](../623/Shield%20(thaumaturgy).md)).  
   
 ### Weapons  
 Weapons may be held without occupying the practitioner's hands, allowing them to carry additional weapons while using other equipment. This can make alternative weapons readily available without requiring the practitioner to physically carry or grip them.  

@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-A **gestation chamber** is an equipment used to house a [fluid sac](./Fluid%20sac.md) and imitate the environmental conditions required for extended gestation. Its primary purpose is to facilitate the creation and development of new [corpora](../120/Corpus.md), allowing a practitioner to determine the stage of life at which the corpus is produced, from infancy to adulthood.  
+**Gestation chambers** are used to house a [fluid sac](./Fluid%20sac.md) and imitate the environmental conditions required for extended gestation. Its primary purpose is to facilitate the creation and development of new [corpora](../120/Corpus.md), allowing a practitioner to determine the stage of life at which the corpus is produced, from infancy to adulthood.  
   
 ## Structure  
 A gestation chamber resembles a pod, with an enclosed space that accommodates a fluid sac. It contains an outlet through which the practitioner creates the sac using hylogenesis. The outlet provides a connection between the practitioner’s corpus and the chamber, allowing corpus extension to establish the sac. The chamber also includes a separate outlet for extracting waste from the fluid sac.  

@@ -21,7 +21,7 @@ Every armature has been observed to produce a field with a radius of approximate
 Practitioners can store raw mana by building an armature. Raw mana under [manokinesis](./Manokinesis.md) is not bounced by the field, which allows it to be placed inside. Whether an armature draws upon its stored raw mana depends on the purpose for which it was programmed.  
   
 ## As a substitute material  
-An armature may serve as a substitute for ordinary [matter](../120/Matter.md). It reproduces the material properties of the matter it replicates, with the exception of chemistry (see [material properties](./Armana.md#Material%20properties)). Conductivity is not regarded as chemical, so an armature replicating copper conducts current as intended, though it holds no energy of its own and must be supplied by a separate source.  
+An armature may serve as a substitute for ordinary [matter](../530/Matter.md). It reproduces the material properties of the matter it replicates, with the exception of chemistry (see [material properties](./Armana.md#Material%20properties)). Conductivity is not regarded as chemical, so an armature replicating copper conducts current as intended, though it holds no energy of its own and must be supplied by a separate source.  
   
 Because an armature is chemically inert, it does not corrode, rust, or react with its surroundings. This makes it well suited to marine infrastructure.  
   

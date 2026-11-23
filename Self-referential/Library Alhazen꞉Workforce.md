@@ -28,7 +28,7 @@ Each staff member identifies themselves through an individual title describing d
   
 Titles may consist of one or more descriptive characteristics, including combinations of seemingly contradictory traits.  
   
-## Roles and responsibilitie  
+## Roles and responsibilities  
 Library Alhazen’s staff members participate in a variety of institutional activities and are assigned responsibilities according to operational requirements and individual capabilities.  
   
 Their responsibilities encompass research, documentation, archival preservation, field operations, security operations, defensive measures, administration, maintenance, agriculture, food production, and other activities necessary for the institution’s operation.  

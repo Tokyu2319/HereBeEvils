@@ -15,16 +15,16 @@ The Alima calendar consists of 360 days distributed evenly across twelve months.
 A year is divided into four seasons, each comprising three consecutive months. The calendar does not require additional days or intercalary periods to maintain its standard annual duration.  
   
 ## Days in a week  
-The calender contains sixty weeks, each consisting of 6 days.  
+The calendar contains sixty weeks, each consisting of 6 days.  
   
 |Day number|Day name|  
 |:---:|:---:|  
-|1|Yozora  
-|2|Týr  
-|3|Odin  
-|4|Thor  
-|5|Frigg  
-|6|Ōzora  
+|1|Ōzora|  
+|2|Asa|  
+|3|Hiru|  
+|4|Yūgata|  
+|5|Yoru|  
+|6|Yozora|  
   
 ## Months  
 The calendar contains twelve months, each consisting of 30 days.  
@@ -58,7 +58,7 @@ Each season corresponds to one quarter of the calendar year.
 |   |**Total**|**12 months**|**360 days**|  
   
 ## Weeks and working days  
-A standard Alima week consists of six consecutive days. The institutional work schedule designates five days for regular work activities, followed by Ōzora as the rest day.  
+A standard Alima week consists of six consecutive days. The institutional work schedule designates five days for regular work activities, followed by Yozora as the rest day.  
   
 This arrangement produces 60 complete weeks within a standard calendar year, comprising 300 scheduled working days and 60 designated rest days.  
   
