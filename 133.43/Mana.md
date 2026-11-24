@@ -21,12 +21,10 @@ Raw mana cannot return to the anima from which it was released and undergoes irr
 These manifestations correspond behaviorally to phana, manon, armana and matter respectively.  
   
 ### Raw mana and armatures  
-Armatures have been observed to delay the decay of raw mana through their field. Each bounce is believed to reset the lifetime of the raw mana. Library Alhazen has conducted experiments to determine whether bounces extend or reset lifetime, and raw mana that had undergone a million bounces still decayed within 0.8 to 5 seconds of its last bounce. These results are consistent with a reset. The mechanism of the field has not been determined.  
+Armatures have been observed to delay the decay of raw mana through their field. Each bounce is believed to reset the lifetime of the raw mana. [Library Alhazen](../Self-referential/Library%20Alhazen.md) has conducted experiments to determine whether bounces extend or reset lifetime, and raw mana that had undergone a million bounces still decayed within 0.8 to 5 seconds of its last bounce. These results are consistent with a reset. The mechanism of the field has not been determined.  
   
 ## Mana release  
-Mana release is the process of releasing mana from the anima, through the corpus, and into the universe. Mana release is influenced by two primary factors:  
-- the mana capacity and the generative ability of the anima,  
-- and the agency of cogito that governs the precision of conversion.  
+Mana release is the process of releasing mana from the anima, through the corpus, and into the universe. Mana release is influenced by two primary factors: The mana capacity and the generative ability of the anima, and the agency of cogito that governs the precision of conversion.  
   
 ### Mana conversion costs  
 Mana is released through the corpus and may be converted into specialized states during externalization. The known base costs are as follows:    
@@ -38,15 +36,15 @@ Mana is released through the corpus and may be converted into specialized states
 ### Mana capacity and generation  
 The amount of mana a being may contain and generate is determined primarily by [the value of their anima](../120/Experience.md#Comparative%20values).  
   
-- Mana capacity ($MC$) = 10 × $AV$  
-- Mana generation ($MG$) = √$AV$ × $S$ per cycle  
+- Mana capacity ($MC$) = 10 &#215; $AV$  
+- Mana generation ($MG$) = √$AV$ &#215; $S$ per cycle  
   
 Where:  
 - $MC$ = mana capacity  
 - $MG$ = mana generation  
 - $AV$ = anima value  
-- $S$ = sanity, a coefficient representing the current psychological, emotional, and cognitive condition of a being, with a baseline value of 1 and a practical range of 1 to 45.  
-- Cycle = a unit of regenerative time approximately comparable to one hour on Earth  
+- $S$ = sanity, a coefficient representing the current psychological, emotional, and cognitive condition of a being, with a baseline value of 1 and a practical range of 1 to 45  
+- Cycle = a unit of regenerative time approximately comparable to one hour on Library Alhazen  
   
 For example, a being with 2,500 $AV$ would possess:  
 - a mana capacity of 25,000 mana  
