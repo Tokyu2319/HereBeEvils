@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-A **title** is the primary means of individual identification used by the staff members of Library Alhazen. Each staff member uses an individual title, generally consisting of descriptive words or phrases reflecting distinguishing aspects of their personality, behavioral characteristics, or disposition.  
+A **title** is the primary means of individual identification used by the staff members of [Library Alhazen](./Library%20Alhazen.md). Each staff member uses an individual title, generally consisting of descriptive words or phrases reflecting distinguishing aspects of their personality, behavioral characteristics, or disposition.  
   
 Titles serve both identificational and administrative purposes within the institution. In addition to distinguishing individual staff members, they are recognized by Library Alhazen Administration and may be associated with particular responsibilities, authority, compensation, and positions within the institutional hierarchy.  
   
