@@ -110,4 +110,4 @@ Fine control acts exclusively on the fabric of space. The precise mechanism by w
 Fine-controlled manon is susceptible to other manon fields. It is also susceptible to electromagnetic radiation of the highest frequencies, such as gamma rays, which destabilize the manon particles. The surrounding influence radius is not itself affected.  
   
 ### Very fine control  
-**Very fine control** is fine control with an influence radius of approximately 10<sup>10<sup>72</sup></sup> &#215; 12<sup>-1</sup> meters. It has the same properties and susceptibilities as fine control. It is the tier used for [intersympantic travel](../523/Wormhole.md#Intersympantic%20travel).
+**Very fine control** is fine control with an influence radius of approximately 10<sup>10<sup>72</sup></sup> &#215; 12<sup>&#8722;1</sup> meters. It has the same properties and susceptibilities as fine control. It is the tier used for [intersympantic travel](../523/Wormhole.md#Intersympantic%20travel).
