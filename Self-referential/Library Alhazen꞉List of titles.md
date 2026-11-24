@@ -22,19 +22,20 @@ The following titles are currently recognized within Library Alhazen.
 - Charlotte fangirl Sabitha  
 - Chatty, unreliable, and discerning Sabitha  
 - Cocksure yet sagacious Sabitha  
+- Culinarian and savoury Sabitha  
   
 ### D  
-- Down-to-earth and damp Sabitha  
+- Down-to-earth, humble, yet irrational  Sabitha  
   
 ### E  
-- Edible and credible Sabitha  
+- Effulgent and spontaneous Sabitha   
   
 ### F  
 - Forward-thinking, overthinking, and perfective Sabitha  
 - Forward-thinking and inventive Sabitha  
   
 ### G  
-- Glasscannon Sabitha  
+- Gregarious, energetic, mischievous Sabitha  
   
 ### H  
 - Honest and trustworthy Sabitha  
@@ -81,9 +82,7 @@ The following titles are currently recognized within Library Alhazen.
 - Sunny and straight man Sabitha  
   
 ### T  
-- Tasty and sweet Sabitha  
-- Tasty and savoury Sabitha  
-- The dirty gun Sabitha  
+- Tainted, sharp, deadly Sabitha  
   
 ### U  
 - Ubiquitous and sneaky Sabitha  
@@ -106,6 +105,9 @@ The following titles are currently recognized within Library Alhazen.
 ## Former and modified titles  
 This section contains titles that are no longer in current use or have been replaced through administrative decisions.  
   
+### C  
+  
+- Culinarian Sabitha — Replaced by *Culinarian and savoury Sabitha*  
 ### F  
 - Fine Sabitha — Replaced by *Very fine Sabitha*.  
   
@@ -118,9 +120,6 @@ This section contains titles that are no longer in current use or have been repl
   
 ### S  
 - Slothful and carefree Sabitha — Replaced by *Saba* following an administrative demotion.  
-  
-### T  
-- Tasty Sabitha — Replaced by *Tasty and savoury Sabitha* and *Tasty and sweet Sabitha*.  
   
 ### Z  
   
@@ -164,6 +163,6 @@ This section contains titles with no current holder.
 - Whiny Sabitha  
   
   
-Related articles  
+### Related articles  
 - [Library Alhazen꞉Workforce](./Library%20Alhazen%EA%9E%89Workforce.md)  
 - [Library Alhazen꞉Title](./Library%20Alhazen%EA%9E%89Title.md)
