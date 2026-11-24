@@ -6,7 +6,7 @@ share: true
 ## Structure  
 A gestation chamber resembles a pod, with an enclosed space that accommodates a fluid sac. It contains an outlet through which the practitioner creates the sac using hylogenesis. The outlet provides a connection between the practitioner’s corpus and the chamber, allowing corpus extension to establish the sac. The chamber also includes a separate outlet for extracting waste from the fluid sac.  
   
-Library Alhazen‘s gestation chambers are additionally equipped with instruments alongside the outlet. These instruments facilitate somatic cell nuclear transfer and memory uploading. Their positions can be adjusted using the chamber’s computer.  
+[Library Alhazen](../Self-referential/Library%20Alhazen.md)‘s gestation chambers are additionally equipped with instruments alongside the outlet. These instruments facilitate somatic cell nuclear transfer and memory uploading. Their positions can be adjusted using the chamber’s computer.  
   
 ## Nutrient supply  
 The chamber provides a means of supplying nutrients to the fluid sac. Nutrients may be supplied from a reservoir or delivered from an external source such as nutrient bags or [biogenesis](../133.43/Hylogenesis.md#Biogenesis).  
