@@ -13,7 +13,7 @@ Similarities may also occur between writing systems, although their extent may d
 Despite these similarities, speakers of different languages are not necessarily able to understand one another without learning the respective languages. Nevertheless, the resemblance can make language acquisition and translation considerably easier.  
   
 ## Observations  
-Library Alhazen has observed systematic linguistic resemblance between languages originating from different worlds, including those without any known historical or geographical contact. No apparent pattern governing which languages exhibit similarities has been identified.  
+[Library Alhazen](../Self-referential/Library%20Alhazen.md) has observed systematic linguistic resemblance between languages originating from different worlds, including those without any known historical or geographical contact. No apparent pattern governing which languages exhibit similarities has been identified.  
   
 The Library’s observations of languages across multiple worlds are ongoing. Consequently, its current documentation does not establish the full extent or distribution of the phenomenon.  
   
