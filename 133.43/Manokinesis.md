@@ -73,7 +73,7 @@ The quantity of manon required for flight depends on the practitioner’s mass a
   
 Manokinetic forces can be applied to specific locations on the practitioner’s body. When the resultant force acts through the body’s centre of mass, it primarily produces translational acceleration. When applied away from the centre of mass, it can additionally produce torque, causing the body to rotate. Practitioners can distribute forces across multiple locations to control their orientation and reduce excessive localized stress.  
   
-Changes in velocity and direction can subject practitioners to substantial mechanical stress. Their ability to withstand such forces depends on their [corpus’](../120/Corpus.md) physical composition and structural properties. Consequently, the maximum practical acceleration and manoeuvrability attainable through manokinetic flight vary between practitioners.  
+Changes in velocity and direction can subject practitioners to substantial mechanical stress. Their ability to withstand such forces depends on their [corpus](../120/Corpus.md)’ physical composition and structural properties. Consequently, the maximum practical acceleration and manoeuvrability attainable through manokinetic flight vary between practitioners.  
   
 Practitioners can hover and travel in any direction, including horizontally and upside down, provided sufficient manokinetic force is available.  
   

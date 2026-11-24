@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-**Sympanta coordinates** are a proposed system used by Library Alhazen to name individual [sympanta](../523/Sympan.md). The coordinates are measured from the founder's sympan and are used for naming, not for intersympantic travel.  
+**Sympanta coordinates** are a proposed system used by [Library Alhazen](./Library%20Alhazen.md) to name individual [sympanta](../523/Sympan.md). The coordinates are measured from the founder's sympan and are used for naming, not for intersympantic travel.  
   
 ## Contents  
 - [Format](Library%20Alhazen%EA%9E%89Sympanta%20coordinates.md#Format)  

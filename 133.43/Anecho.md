@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-An **anecho** (/aˈne.kho/) is a [being](../120/Being.md) born with a birthmark and an ability that Library Alhazen cannot explain within its current understanding of physics and thaumics. Some anechoi also lack [counterparts](../523/Sympan.md#Counterparts), though this is not required.  
+An **anecho** (/aˈne.kho/) is a [being](../120/Being.md) born with a birthmark and an ability that [Library Alhazen](../Self-referential/Library%20Alhazen.md) cannot explain within its current understanding of physics and thaumics. Some anechoi also lack [counterparts](../523/Sympan.md#Counterparts), though this is not required.  
   
 ## Contents  
 - [Birthmarks](Anecho.md#Birthmarks)  

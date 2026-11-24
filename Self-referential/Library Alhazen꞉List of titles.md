@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-This article contains a list of titles used by the staff members of Library Alhazen. Each title serves as an individual identifier and generally describes distinguishing aspects of its holder’s personality, behavioral characteristics, or disposition.  
+This article contains a list of titles used by the staff members of [Library Alhazen](./Library%20Alhazen.md). Each title serves as an individual identifier and generally describes distinguishing aspects of its holder’s personality, behavioral characteristics, or disposition.  
   
 Titles may differ in their composition, descriptive characteristics, and institutional standing. Some titles may also be associated with particular responsibilities or levels of authority within the Library.  
   
