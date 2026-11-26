@@ -6,10 +6,12 @@ An **anecho** (/aˈne.kho/) is a [being](../120/Being.md) born with a birthmark 
 ## Contents  
 - [Birthmarks](Anecho.md#Birthmarks)  
 - [Physiology](Anecho.md#Physiology)  
+- [Origin](Anecho.md#Origin)  
 - [Abilities](Anecho.md#Abilities)  
 - [Counterparts](Anecho.md#Counterparts)  
 - [Documented anechoi](Anecho.md#Documented%20anechoi)  
 - [Distribution](Anecho.md#Distribution)  
+  
   
 ## Birthmarks  
 Every anecho is born with a single **anecho birthmark**. The presence of a birthmark is regarded as proof that its bearer is an anecho (see [Charlotte](../920/Charlotte%20(anecho).md)).  
@@ -73,7 +75,7 @@ Four documented anechoi, Olive, Charlotte, Níu, and Nelu, reside in sympan (0, 
   
 → It’s possibly Greek derived. I’m guessing it’s anéchō (ἀνέχω), the Ancient Greek verb meaning rise up or something.  
   
-→ Observant and hungry Sabitha, the correct kanji for cat is 猫 not 描 (to draw/to write)  
+→ @Observant_and_hungry_Sabitha the correct kanji for cat is 猫 not 描 (to draw/to write)  
   
 → Anechoic, the absence of ’an echo’.  
   
