@@ -31,7 +31,7 @@ Library Alhazen maintains an extensive collection of articles, documents, record
   
 The institution also accepts contributions from visitors, including personal accounts and descriptions of their own thoughts and experiences. Such contributions provide information that cannot be obtained through external observation alone.  
   
-Library Alhazen does not distribute its collections outside its infrastructure. Nevertheless, efforts are made to make its documentation understandable across [common languages](../410/Systematic%20Linguistic%20Resemblance.md).  
+Library Alhazen does not distribute its collections outside its infrastructure. Nevertheless, efforts are made to make its documentation understandable across [common languages](../410/Systematic%20linguistic%20resemblance.md).  
   
 ### Related articles  
 - [Al-Haytham](../523/Al-Haytham.md)  
