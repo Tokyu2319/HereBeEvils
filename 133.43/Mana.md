@@ -10,7 +10,7 @@ share: true
 ## Raw mana  
 Raw mana particles are mana particles existing independently from their anima and outside their specialized states. Raw mana will naturally convert itself into phana or manon when it enters their fields. Raw mana is inherently temporary and subject to mana decay.  
   
-Raw mana travels slower than the speed of light, similar to neutrinos. It passes through matter without being obstructed. The only known exceptions are [armatures](./Armature.md), which have been observed to produce a field that bounces raw mana. A bounce changes only the direction of the raw mana.  
+Raw mana travels slightly slower than the speed of light, at approximately 300,000 kilometres per second. It passes through matter without being obstructed. The only known exceptions are [armatures](./Armature.md), which have been observed to produce a field that bounces raw mana. A bounce changes only the direction of the raw mana.  
   
 ### Raw mana decay  
 Raw mana cannot return to the anima from which it was released and undergoes irreversible decay at an apparently constant rate. Raw mana typically decays within 0.8 to 5 seconds of its release. This decay eventually destabilizes the raw mana, causing it to release its remaining energy through one of several known manifestations of destabilization:  
