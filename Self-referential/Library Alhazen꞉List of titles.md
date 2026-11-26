@@ -17,15 +17,18 @@ The following titles are currently recognized within Library Alhazen.
   
 ### B  
 - Big and quiet Sabitha  
+- Blandiloquent and sly Sabitha  
   
 ### C  
-- Charlotte fangirl Sabitha  
+- Charlotte fangirling, locked-on, and primed Sabitha  
 - Chatty, unreliable, and discerning Sabitha  
 - Cocksure yet sagacious Sabitha  
 - Culinarian and savoury Sabitha  
   
 ### D  
 - Down-to-earth, humble, yet irrational  Sabitha  
+- Dry Sabitha  
+- Dynamic, masochistic, and creative Sabitha  
   
 ### E  
 - Effulgent and spontaneous Sabitha   
@@ -43,8 +46,10 @@ The following titles are currently recognized within Library Alhazen.
   
 ### I  
 - Inquisitive, intrusive, and harmful Sabitha  
+- Improvising yet impecunious Sabitha  
   
 ### J  
+- Jovial, expressive, and versatile Sabitha  
 - Junoesque Sabitha  
   
 ### K  
@@ -65,7 +70,8 @@ The following titles are currently recognized within Library Alhazen.
 - Overzealous but comedic Sabitha  
   
 ### P  
-- Pursuing apotheosis Sabitha  
+-   
+- Pursuing apotheosis Sabitha  
   
 ### Q  
 - Quiescent and tableau Sabitha  
@@ -119,7 +125,7 @@ This section contains titles that are no longer in current use or have been repl
 - Rhyming Sabitha — Replaced by *Rhyming and rhythmical Sabitha*.  
   
 ### S  
-- Slothful and carefree Sabitha — Replaced by *Saba* following an administrative demotion.  
+- Slothful and carefree Sabitha — Replaced by *Library Alhazen’s Saba* following an administrative demotion.  
   
 ### Z  
   
