@@ -32,6 +32,6 @@ Because gamma rays can destabilize fine-controlled manon, the manon particles of
 The ring also protects the rim of the wormhole from stray matter. Placing a wormhole within a protective ring is the more practical arrangement, though it is not required, and an armature can create endpoints outside the practitioner's reach. The rim of such a wormhole is unprotected.  
   
 ## Intersympantic travel  
-Intersympantic travel can be achieved by stacking wormhole armatures along a path. A higher tier of manokinesis, **very fine control**, is used for this purpose. Very fine control is fine control with its influence radius expanded to approximately 10<sup>10<sup>72</sup></sup>/12 meters, a fraction of the distance given for reaching a neighboring [sympan](./Sympan.md).  
+Intersympantic travel can be achieved by stacking wormhole armatures along a path. A higher tier of manokinesis, **very fine control**, is used for this purpose. Very fine control is fine control with its influence radius expanded to approximately 10<sup>10<sup>72</sup></sup> &#215; 12<sup>&#8722;1</sup> meters, a fraction of the distance given for reaching a neighboring [sympan](./Sympan.md).  
   
 The coordinates of [sympanta](../Self-referential/Library%20Alhazen%EA%9E%89Sympanta%20coordinates.md) are a system for naming and are not used for travel.
